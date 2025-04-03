@@ -122,7 +122,7 @@ top_10_global[['game', 'year', 'genre', 'publisher', 'Global_Sales']]
 
 # Plot top 10 games
 plt.figure(figsize=(14, 7))
-sns.barplot(x='Global_Sales', y='game', data=top_10_global, palette='viridis')
+sns.barplot(x='Global_Sales', y='game', data=top_10_global, hue='game', legend=False)
 plt.title('Top 10 PS4 Games by Global Sales', fontsize=16)
 plt.xlabel('Global Sales (millions)', fontsize=14)
 plt.ylabel('Game', fontsize=14)
@@ -213,7 +213,7 @@ major_publishers.head(10)
 # Plot top publishers
 plt.figure(figsize=(14, 8))
 top_publishers = major_publishers.head(10)
-sns.barplot(x='Average Sales', y='Publisher', data=top_publishers, palette='viridis')
+sns.barplot(x='Average Sales', y='Publisher', data=top_publishers, hue='Publisher', legend=False)
 plt.title('Top 10 Publishers by Average Sales', fontsize=16)
 plt.xlabel('Average Sales (millions)', fontsize=14)
 plt.ylabel('Publisher', fontsize=14)
@@ -257,7 +257,7 @@ lifecycle_data
 
 # Plot average sales by lifecycle phase
 plt.figure(figsize=(10, 6))
-sns.barplot(x='Lifecycle Phase', y='Average Sales', data=lifecycle_data, palette='viridis')
+sns.barplot(x='Lifecycle Phase', y='Average Sales', data=lifecycle_data, hue='Lifecycle Phase', legend=False)
 plt.title('Average PS4 Game Sales by Console Lifecycle Phase', fontsize=16)
 plt.xlabel('Lifecycle Phase', fontsize=14)
 plt.ylabel('Average Sales (millions)', fontsize=14)
