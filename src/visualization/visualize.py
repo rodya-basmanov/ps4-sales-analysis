@@ -337,7 +337,7 @@ def create_all_visualizations(df):
 
 if __name__ == "__main__":
     # This block executes when the script is run directly
-    from ps4_sales_analysis.src.data.data_processing import load_data, preprocess_data
+    from src.data.data_processing import load_data, preprocess_data
 
     # Load and preprocess data
     df_raw = load_data()

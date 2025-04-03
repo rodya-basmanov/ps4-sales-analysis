@@ -337,7 +337,7 @@ def generate_year_analysis_report(df, output_path=None):
 
 if __name__ == "__main__":
     # Demonstrate function usage
-    from ps4_sales_analysis.src.data.data_processing import load_data, preprocess_data
+    from src.data.data_processing import load_data, preprocess_data
 
     # Load and preprocess data
     df_raw = load_data()
