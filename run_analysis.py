@@ -44,14 +44,14 @@ def run_full_analysis():
     logger.info("Starting PS4 game sales data analysis")
 
     # Import modules from the project structure
-    from ps4_sales_analysis.src.data.data_processing import (
+    from src.data.data_processing import (
         load_data, clean_data, preprocess_data, get_summary_stats, save_processed_data
     )
-    from ps4_sales_analysis.src.analysis.regional_analysis import (
+    from src.analysis.regional_analysis import (
         generate_regional_report, calculate_regional_means
     )
-    from ps4_sales_analysis.src.analysis.year_analysis import generate_year_analysis_report
-    from ps4_sales_analysis.src.visualization.visualize import create_all_visualizations
+    from src.analysis.year_analysis import generate_year_analysis_report
+    from src.visualization.visualize import create_all_visualizations
 
     # Step 1: Load data
     logger.info("Loading raw data...")
