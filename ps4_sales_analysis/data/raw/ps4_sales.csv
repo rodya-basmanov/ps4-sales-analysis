@@ -1,0 +1,826 @@
+id,game,year,genre,publisher,North America,europe,japan,Rest of World,global
+1,Grand Theft Auto V,2014,Action,Rockstar Games,6.06,9.71,0.60,3.02,19.39
+2,Call of Duty: Black Ops 3,2015,Shooter,Activision,6.18,6.05,0.41,2.44,15.09
+3,Red Dead Redemption 2,2018,Action-Adventure,Rockstar Games,5.26,6.21,0.21,2.26,13.94
+4,Call of Duty: WWII,2017,Shooter,Activision,4.67,6.21,0.40,2.12,13.40
+5,FIFA 18,2017,Sports,EA Sports,1.27,8.64,0.15,1.73,11.80
+6,FIFA 17,2016,Sports,Electronic Arts,1.26,7.95,0.12,1.61,10.94
+7,Uncharted (PS4),2016,Action,Sony Interactive Entertainment,4.49,3.93,0.21,1.70,10.33
+8,Spider-Man (PS4),2018,Action-Adventure,Sony Interactive Entertainment,3.64,3.39,0.32,1.41,8.76
+9,Call of Duty: Infinite Warfare,2016,Shooter,Activision,3.11,3.83,0.19,1.36,8.48
+10,Fallout 4,2015,Role-Playing,Bethesda Softworks,2.91,3.97,0.27,1.34,8.48
+11,FIFA 16,2015,Sports,EA Sports,1.15,5.77,0.07,1.23,8.22
+12,Star Wars Battlefront 2015,2015,Shooter,Electronic Arts,3.31,3.19,0.23,1.30,8.03
+13,Call of Duty: Advanced Warfare,2014,Shooter,Activision,2.84,3.34,0.14,1.22,7.53
+14,Battlefield 1,2016,Shooter,Electronic Arts,2.20,3.65,0.29,1.12,7.26
+15,The Last of Us,2014,Action-Adventure,Sony Computer Entertainment,2.70,2.86,0.11,1.10,6.77
+16,MineCraft,2014,Misc,Sony Computer Entertainment,1.89,3.13,0.35,0.96,6.33
+17,FIFA 15,2014,Sports,EA Sports,0.83,4.49,0.05,0.94,6.32
+18,God of War (PS4),2018,Action,Sony Interactive Entertainment,2.83,2.17,0.13,1.02,6.15
+19,Horizon: Zero Dawn,2017,Action,Sony Interactive Entertainment,2.20,2.43,0.28,0.92,5.82
+20,Destiny,2014,Shooter,Activision,2.53,2.13,0.16,0.94,5.76
+21,Uncharted: The Nathan Drake Collection,2015,Action,Sony Computer Entertainment,2.55,2.11,0.10,0.94,5.70
+22,The Witcher 3: Wild Hunt,2015,Role-Playing,Namco Bandai Games,1.48,2.82,0.28,0.81,5.39
+23,Final Fantasy XV,2016,Role-Playing,Square Enix,1.81,1.53,1.05,0.68,5.07
+24,Crash Bandicoot N. Sane Trilogy,2017,Platform,Activision,1.09,2.92,0.07,0.74,4.83
+25,Monster Hunter: World,2018,Action,Capcom,1.03,1.06,2.17,0.42,4.67
+26,Overwatch,2016,Shooter,Blizzard Entertainment,1.84,1.80,0.17,0.73,4.54
+27,Star Wars Battlefront II (2017),2017,Shooter,Electronic Arts,1.70,1.99,0.12,0.73,4.53
+28,Tom Clancy's The Division,2016,Shooter,Ubisoft,1.49,2.04,0.16,0.69,4.37
+29,Tom Clancy's Rainbow Six: Siege,2015,Shooter,Ubisoft,1.29,2.06,0.36,0.64,4.36
+30,Watch Dogs,2014,Action-Adventure,Ubisoft,1.40,2.13,0.11,0.68,4.32
+31,Call of Duty: Ghosts,2013,Shooter,Activision,1.79,1.64,0.05,0.69,4.17
+32,Assassin's Creed: Unity,2014,Action,Ubisoft,1.25,2.16,0.09,0.65,4.14
+33,Destiny 2,2017,Shooter,Activision,1.92,1.44,0.10,0.69,4.14
+34,Batman: Arkham Knight,2015,Action,Warner Bros. Interactive,1.65,1.68,0.11,0.66,4.11
+35,Assassin's Creed Origins,2017,Action,Ubisoft,1.22,2.11,0.11,0.63,4.06
+36,Far Cry 4,2014,Shooter,Ubisoft,1.18,2.14,0.11,0.63,4.06
+37,NBA 2K16,2015,Sports,2K Sports,2.56,0.66,0.05,0.71,3.98
+38,Far Cry 5,2018,Action,Ubisoft,1.44,1.73,0.15,0.62,3.95
+39,Battlefield 4,2013,Shooter,Electronic Arts,1.40,1.74,0.19,0.62,3.94
+40,Gran Turismo Sport,2017,Racing,Sony Interactive Entertainment,0.63,2.35,0.24,0.54,3.77
+41,Assassin's Creed Syndicate,2015,Action,Ubisoft,0.90,2.06,0.08,0.55,3.60
+42,NBA 2K17,2016,Sports,2K Sports,2.28,0.59,0.03,0.63,3.52
+43,Mortal Kombat X,2015,Fighting,Warner Bros. Interactive Entertainment,1.94,0.94,0.00,0.61,3.49
+44,FIFA Soccer 14,2013,Sports,EA Sports,0.62,2.18,0.12,0.51,3.43
+45,The Elder Scrolls V: Skyrim,2016,Role-Playing,Bethesda Softworks,1.24,1.50,0.08,0.54,3.36
+46,Watch Dogs 2,2016,Action,Ubisoft,0.98,1.74,0.12,0.52,3.36
+47,NBA 2K18,2017,Sports,2K Sports,2.13,0.57,0.04,0.59,3.34
+48,Resident Evil VII: Biohazard,2017,Action,Capcom,0.88,1.56,0.41,0.46,3.31
+49,Madden NFL 16,2015,Sports,EA Sports,2.39,0.31,0.00,0.61,3.30
+50,Madden NFL 17,2016,Sports,EA Sports,2.30,0.37,0.00,0.60,3.28
+51,Middle-Earth: Shadow of Mordor,2014,Action,Warner Bros. Interactive Entertainment,1.03,1.60,0.05,0.51,3.19
+52,Assassin's Creed IV: Black Flag,2013,Action-Adventure,Ubisoft,1.07,1.55,0.06,0.51,3.19
+53,Tom Clancy's Ghost Recon Wildlands,2017,Shooter,Ubisoft,1.07,1.35,0.22,0.47,3.12
+54,Bloodborne,2015,Role-Playing,Sony Computer Entertainment,1.30,1.05,0.28,0.48,3.11
+55,Metal Gear Solid V: The Phantom Pain,2015,Action,Konami Digital Entertainment,0.97,1.15,0.50,0.42,3.04
+56,Killzone: Shadow Fall,2013,Shooter,Sony Computer Entertainment,0.89,1.58,0.08,0.47,3.02
+57,inFAMOUS: Second Son,2014,Action-Adventure,Sony Computer Entertainment,1.35,1.09,0.07,0.50,3.01
+58,Doom (2016),2016,Shooter,Bethesda Softworks,0.93,1.48,0.04,0.46,2.92
+59,Mafia III,2016,Action-Adventure,2K Games,0.72,1.67,0.04,0.44,2.87
+60,Diablo III,2014,Role-Playing,Blizzard Entertainment,0.83,1.48,0.08,0.44,2.82
+61,Far Cry: Primal,2016,Action-Adventure,Ubisoft,0.63,1.61,0.07,0.41,2.73
+62,Need for Speed (2015),2015,Racing,Electronic Arts,0.59,1.66,0.06,0.41,2.72
+63,Madden NFL 18,2017,Sports,EA Sports,1.73,0.42,0.00,0.47,2.62
+64,NBA 2K15,2014,Sports,2K Sports,1.49,0.55,0.01,0.44,2.49
+65,Dying Light,2015,Action,Warner Bros. Interactive,1.18,0.74,0.13,0.40,2.45
+66,Dark Souls III,2016,Role-Playing,Namco Bandai Games,1.00,0.63,0.44,0.34,2.42
+67,Ratchet & Clank (2016),2016,Platform,Sony Interactive Entertainment,0.97,0.97,0.06,0.39,2.38
+68,DriveClub,2014,Racing,Sony Computer Entertainment,0.37,1.63,0.02,0.36,2.37
+69,Uncharted: The Lost Legacy,2017,Action,Sony Interactive Entertainment,0.58,1.38,0.04,0.36,2.37
+70,Dragon Age III: Inquisition,2014,Role-Playing,Electronic Arts,1.07,0.80,0.08,0.38,2.34
+71,No Man's Sky,2016,Action-Adventure,Hello Games,0.89,0.97,0.04,0.37,2.26
+72,Madden NFL 15,2014,Sports,EA Sports,1.58,0.25,0.00,0.41,2.25
+73,Need for Speed: Payback,2017,Racing,Electronic Arts,0.62,1.18,0.04,0.34,2.18
+74,Destiny: The Taken King,2015,Shooter,Activision,0.97,0.80,0.05,0.36,2.18
+75,Need for Speed Rivals,2013,Racing,Electronic Arts,0.75,1.04,0.03,0.35,2.17
+76,PlayStation VR Worlds,2016,Misc,Sony Interactive Entertainment,0.36,1.40,0.09,0.32,2.16
+77,Battlefield: Hardline,2015,Shooter,Electronic Arts,0.72,0.97,0.14,0.33,2.15
+78,Rise of the Tomb Raider,2016,Adventure,Square Enix,0.61,1.08,0.05,0.32,2.07
+79,LittleBigPlanet 3,2014,Platform,Sony Computer Entertainment,0.78,0.93,0.01,0.34,2.06
+80,The Elder Scrolls Online,2015,MMO,Bethesda Softworks,0.74,0.98,0.00,0.33,2.05
+81,Middle-Earth: Shadow of War,2017,Action,Warner Bros. Interactive Entertainment,0.82,0.84,0.06,0.33,2.04
+82,Dragon Quest XI,2017,Role-Playing,Square Enix,0.29,0.22,1.43,0.10,2.04
+83,Rocket League,2016,Sports,505 Games,0.37,1.34,0.00,0.31,2.02
+84,Just Cause 3,2015,Action-Adventure,Square Enix,0.53,1.07,0.09,0.30,1.98
+85,Dishonored 2,2016,Action,Bethesda Softworks,0.62,1.02,0.01,0.31,1.97
+86,Lego Marvel Super Heroes,2013,Action,Warner Bros. Interactive Entertainment,0.59,1.00,0.01,0.30,1.91
+87,Until Dawn,2015,Adventure,Sony Computer Entertainment,0.62,0.92,0.06,0.30,1.90
+88,Knack,2013,Platform,Sony Computer Entertainment,0.45,0.77,0.42,0.23,1.88
+89,The Evil Within,2014,Action,Bethesda Softworks,0.56,0.90,0.11,0.28,1.86
+90,The Crew,2014,Racing,Ubisoft,0.44,1.04,0.03,0.27,1.79
+91,Kingdom Hearts 1.5 + 2.5 Remix,2017,Role-Playing,Square Enix,0.75,0.51,0.23,0.26,1.75
+92,For Honor,2017,Action,Ubisoft,0.73,0.66,0.07,0.28,1.75
+93,Titanfall 2,2016,Shooter,Electronic Arts,0.75,0.62,0.06,0.28,1.72
+94,Injustice 2,2017,Fighting,Warner Bros. Interactive Entertainment,0.88,0.54,0.00,0.29,1.72
+95,NieR Automata,2017,Role-Playing,Square Enix,0.56,0.51,0.42,0.22,1.71
+96,Tekken 7,2017,Fighting,Namco Bandai Games,0.60,0.72,0.12,0.26,1.70
+97,Persona 5,2016,Role-Playing,Deep Silver,0.62,0.34,0.48,0.20,1.64
+98,The Order: 1886,2015,Shooter,Sony Computer Entertainment,0.44,0.86,0.07,0.25,1.62
+99,Wolfenstein: The New Order,2014,Shooter,Bethesda Softworks,0.48,0.84,0.03,0.25,1.61
+100,Detroit: Become Human,2018,Adventure,Sony Interactive Entertainment,0.55,0.67,0.12,0.24,1.57
+101,Naruto Shippuden: Ultimate Ninja Storm 4,2016,Fighting,Namco Bandai Games,0.71,0.47,0.12,0.24,1.54
+102,NBA 2K14,2013,Sports,2K Sports,0.91,0.35,0.01,0.27,1.54
+103,Tomb Raider (2013),2014,Action-Adventure,Square Enix,0.47,0.74,0.06,0.23,1.51
+104,Dragon Ball: Xenoverse 2,2016,Action,Namco Bandai Games,0.54,0.59,0.14,0.23,1.50
+105,Rayman Legends,2014,Platform,Ubisoft,0.22,1.05,0.00,0.23,1.50
+106,Mass Effect: Andromeda,2017,Role-Playing,Electronic Arts,0.58,0.67,0.00,0.25,1.49
+107,Dragon Ball Fighter Z,2018,Fighting,Namco Bandai Games,0.61,0.51,0.12,0.23,1.46
+108,South Park: The Fractured But Whole,2017,Role-Playing,Ubisoft,0.62,0.57,0.00,0.24,1.43
+109,The Sims 4,2017,Simulation,Electronic Arts,0.44,0.72,0.01,0.22,1.39
+110,Street Fighter V,2016,Fighting,Capcom,0.64,0.42,0.12,0.22,1.39
+111,Wolfenstein II: The New Colossus,2017,Shooter,Bethesda Softworks,0.55,0.58,0.01,0.22,1.36
+112,WWE 2K18,2017,Sports,2K Sports,0.45,0.67,0.00,0.22,1.33
+113,Lego Star Wars: The Force Awakens,2016,Action-Adventure,Warner Bros. Interactive Entertainment,0.30,0.78,0.02,0.20,1.31
+114,EA Sports UFC 2,2016,Sports,EA Sports,0.44,0.65,0.00,0.21,1.31
+115,The Last Guardian,2016,Action-Adventure,Sony Interactive Entertainment,0.40,0.58,0.13,0.19,1.29
+116,WWE 2K16,2015,Sports,Take-Two Interactive,0.43,0.65,0.00,0.21,1.29
+117,Borderlands: The Handsome Collection,2015,Shooter,2K Games,0.69,0.34,0.03,0.22,1.28
+118,Project CARS,2015,Racing,Bandai Namco Games,0.29,0.76,0.04,0.19,1.28
+119,WWE 2K17,2016,Sports,2K Games,0.32,0.70,0.00,0.19,1.22
+120,Guitar Hero Live,2015,Music,Activision,0.52,0.49,0.00,0.20,1.21
+121,Metal Gear Solid: Ground Zeroes,2014,Action-Adventure,Konami Digital Entertainment,0.36,0.50,0.17,0.17,1.20
+122,Mad Max (2013),2015,Action,Warner Bros. Interactive Entertainment,0.38,0.59,0.05,0.19,1.20
+123,Shadow of the Colossus,2018,Action-Adventure,Sony Interactive Entertainment,0.44,0.52,0.05,0.19,1.20
+124,Kingdom Hearts HD 2.8 Final Chapter Prologue,2017,Role-Playing,Square Enix,0.57,0.25,0.20,0.17,1.20
+125,Dragon Ball: XenoVerse,2015,Fighting,Namco Bandai Games,0.33,0.55,0.14,0.17,1.19
+126,LEGO Dimensions,2015,Action,Warner Bros. Interactive Entertainment,0.48,0.50,0.00,0.20,1.18
+127,LEGO Jurassic World,2015,Action,Warner Bros. Interactive Entertainment,0.41,0.56,0.02,0.19,1.18
+128,WWE 2K15,2014,Sports,2K Sports,0.40,0.57,0.00,0.19,1.16
+129,MLB The Show 17,2017,Sports,Sony Interactive Entertainment,0.94,0.00,0.00,0.22,1.16
+130,LEGO Worlds,2017,Misc,Warner Bros. Interactive Entertainment,0.21,0.72,0.04,0.17,1.14
+131,The Elder Scrolls V: Skyrim PSVR,2017,Role-Playing,Bethesda Softworks,0.47,0.47,0.01,0.19,1.13
+132,LEGO Marvel Super Heroes 2,2017,Action,Warner Bros. Interactive Entertainment,0.33,0.60,0.00,0.18,1.11
+133,EA Sports UFC,2014,Fighting,Electronic Arts,0.49,0.43,0.01,0.18,1.11
+134,Final Fantasy XII: The Zodiac Age,2017,Role-Playing,Square Enix,0.37,0.41,0.16,0.15,1.10
+135,Alien: Isolation,2014,Adventure,Sega,0.29,0.59,0.05,0.16,1.09
+136,MLB The Show 18,2018,Sports,Sony Interactive Entertainment,0.86,0.00,0.00,0.20,1.06
+137,The Evil Within II,2017,Action,Bethesda Softworks,0.31,0.49,0.09,0.15,1.05
+138,Prey (2017),2017,Shooter,Bethesda Softworks,0.25,0.62,0.02,0.16,1.04
+139,Final Fantasy Type-0,2015,Role-Playing,Square Enix,0.40,0.33,0.16,0.15,1.04
+140,Ni-Oh,2017,Action,Tecmo Koei,0.34,0.36,0.20,0.14,1.03
+141,MLB 15: The Show,2015,Sports,Sony Computer Entertainment,0.75,0.08,0.00,0.19,1.01
+142,Steep,2016,Sports,Ubisoft,0.23,0.60,0.02,0.15,1.01
+143,LEGO Marvel's Avengers,2016,Action,Warner Bros. Interactive Entertainment,0.31,0.53,0.01,0.16,1.01
+144,Evolve,2015,Shooter,2K Games,0.38,0.41,0.05,0.16,1.01
+145,Injustice: Gods Among Us,2013,Fighting,Warner Bros. Interactive Entertainment,0.46,0.35,0.00,0.17,0.98
+146,EA Sports UFC 3,2018,Sports,EA Sports,0.40,0.41,0.01,0.16,0.97
+147,Madden NFL 25,2013,Sports,EA Sports,0.64,0.15,0.00,0.17,0.96
+148,MLB 16: The Show,2016,Sports,Sony Computer Entertainment,0.78,0.00,0.00,0.18,0.96
+149,Lego Batman 3: Beyond Gotham,2014,Action,Warner Bros. Interactive Entertainment,0.37,0.42,0.00,0.16,0.94
+150,Final Fantasy X/X-2 HD Remaster,2015,Role-Playing,Square Enix,0.34,0.36,0.07,0.14,0.90
+151,Ni no Kuni II: Revenant Kingdom,2018,Role-Playing,Namco Bandai Games,0.33,0.31,0.12,0.13,0.89
+152,God of War III,2015,Action,Sony Computer Entertainment,0.40,0.33,0.02,0.15,0.89
+153,Fortnite,2017,Action,Gearbox Software,0.42,0.32,0.00,0.15,0.89
+154,LEGO Harry Potter Collection,2016,Action,Warner Bros. Interactive Entertainment,0.07,0.68,0.00,0.13,0.88
+155,Minecraft: Story Mode,2015,Adventure,Mojang,0.31,0.42,0.00,0.14,0.87
+156,BioShock The Collection,2016,Shooter,2K Games,0.41,0.28,0.03,0.14,0.86
+157,Thief 4,2014,Action,Square Enix,0.28,0.41,0.03,0.13,0.85
+158,Until Dawn: Rush of Blood,2016,Shooter,Sony Interactive Entertainment,0.50,0.21,0.00,0.15,0.85
+159,Disney Infinity 3.0,2015,Action,Disney Interactive Studios,0.31,0.40,0.00,0.14,0.85
+160,Farming Simulator 17,2016,Simulation,Focus Home Interactive,0.19,0.52,0.01,0.13,0.85
+161,The Crew 2,2018,Racing,Ubisoft,0.22,0.42,0.05,0.12,0.82
+162,Pro Evolution Soccer 2016,2015,Sports,Konami Digital Entertainment,0.14,0.43,0.14,0.10,0.82
+163,ARK: Survival Evolved,2017,Action,Studio Wildcard,0.28,0.29,0.14,0.11,0.81
+164,Dragon Quest Heroes: The World's Tree Woe and the Blight Below,2015,Action,Square Enix,0.21,0.14,0.39,0.07,0.81
+165,Assassin's Creed The Ezio Collection,2016,Action,Ubisoft,0.14,0.52,0.02,0.12,0.79
+166,Final Fantasy XIV: A Realm Reborn,2014,MMO,Square Enix,0.35,0.23,0.08,0.12,0.79
+167,Destiny: The Collection,2016,Shooter,Activision,0.24,0.40,0.02,0.12,0.78
+168,F1 2016 (Codemasters),2016,Racing,Codemasters,0.07,0.56,0.03,0.11,0.78
+169,Hitman (2016),2017,Action,Square Enix,0.24,0.36,0.06,0.11,0.78
+170,Pro Evolution Soccer 2015,2014,Sports,Konami Digital Entertainment,0.09,0.45,0.12,0.10,0.76
+171,LEGO City Undercover,2017,Platform,Warner Bros. Interactive Entertainment,0.17,0.46,0.01,0.12,0.75
+172,Pro Evolution Soccer 2018,2017,Sports,Konami Digital Entertainment,0.12,0.36,0.19,0.09,0.75
+173,Disney Infinity 2.0: Marvel Super Heroes,2014,Action-Adventure,Disney Interactive Studios,0.37,0.25,0.00,0.13,0.75
+174,Pro Evolution Soccer 2017,2016,Sports,Konami Digital Entertainment,0.08,0.41,0.18,0.09,0.75
+175,Sniper Elite 3,2014,Shooter,505 Games,0.25,0.37,0.00,0.12,0.74
+176,MLB 14 The Show,2014,Sports,Sony Computer Entertainment,0.59,0.00,0.00,0.14,0.73
+177,WipEout Omega Collection,2017,Racing,Sony Interactive Entertainment,0.12,0.49,0.00,0.11,0.72
+178,Deus Ex: Mankind Divided,2016,Role-Playing,Square Enix,0.25,0.34,0.01,0.12,0.72
+179,The LEGO Movie Videogame,2014,Action-Adventure,Warner Bros. Interactive Entertainment,0.26,0.32,0.01,0.11,0.71
+180,Marvel vs. Capcom: Infinite,2017,Fighting,Capcom,0.36,0.19,0.04,0.11,0.70
+181,Dark Souls II,2015,Role-Playing,Namco Bandai Games,0.27,0.23,0.09,0.10,0.69
+182,Yakuza 6,2016,Adventure,Sega,0.16,0.10,0.38,0.05,0.69
+183,F1 2015,2015,Racing,Codemasters,0.10,0.45,0.04,0.10,0.68
+184,METRO 2033,2014,Shooter,Deep Silver,0.22,0.31,0.05,0.10,0.68
+185,Rocksmith 2014,2014,Music,Ubisoft,0.38,0.17,0.00,0.12,0.67
+186,NHL 16,2015,Sports,EA Sports,0.38,0.16,0.00,0.12,0.66
+187,Plants vs Zombies: Garden Warfare,2014,Shooter,Electronic Arts,0.24,0.30,0.01,0.11,0.66
+188,Tales of Berseria,2016,Role-Playing,Namco Bandai Games,0.22,0.10,0.26,0.07,0.65
+189,Yakuza Zero: The Place of Oath,2015,Adventure,Sega,0.22,0.16,0.19,0.08,0.65
+190,One Piece: Burning Blood,2016,Fighting,Namco Bandai Games,0.21,0.26,0.09,0.09,0.65
+191,Batman: Return to Arkham,2016,Action,Warner Bros. Interactive Entertainment,0.15,0.39,0.01,0.10,0.64
+192,Plants vs. Zombies: Garden Warfare 2,2016,Shooter,Electronic Arts,0.22,0.31,0.00,0.10,0.63
+193,LEGO The Hobbit,2014,Action-Adventure,Warner Bros. Interactive Entertainment,0.14,0.39,0.00,0.10,0.62
+194,World of Final Fantasy,2016,Role-Playing,Square Enix,0.24,0.21,0.09,0.09,0.62
+195,F1 2017,2017,Racing,Koch Media,0.04,0.47,0.02,0.09,0.62
+196,NHL 15,2014,Sports,EA Sports,0.32,0.19,0.00,0.11,0.62
+197,Knowledge is Power,2017,Party,Sony Interactive Entertainment,0.05,0.47,0.00,0.09,0.61
+198,L.A. Noire,2017,Adventure,Rockstar Games,0.18,0.32,0.00,0.10,0.60
+199,Hidden Agenda,2017,Adventure,Sony Interactive Entertainment,0.08,0.42,0.00,0.09,0.59
+200,Call of Duty: Modern Warfare Remastered,2017,Shooter,Activision,0.17,0.30,0.03,0.09,0.58
+201,Dragon Quest Builders: Revive Alefgard,2016,Role-Playing,Square Enix,0.12,0.17,0.24,0.06,0.58
+202,The Lego Ninjago Movie Videogame,2017,Action,Warner Bros. Interactive Entertainment,0.16,0.32,0.00,0.09,0.57
+203,Resident Evil: Revelations 2,2015,Action,Capcom,0.14,0.25,0.11,0.07,0.57
+204,Rock Band 4,2015,Music,Harmonix Music Systems,0.41,0.06,0.00,0.10,0.57
+205,NHL 18,2017,Sports,EA Sports,0.31,0.16,0.00,0.10,0.57
+206,Everybody's Golf,2017,Sports,Sony Interactive Entertainment,0.12,0.22,0.17,0.06,0.56
+207,The Amazing Spider-Man 2 (2014),2014,Action-Adventure,Activision,0.20,0.26,0.02,0.09,0.56
+208,DOOM VFR,2017,Shooter,Bethesda Softworks,0.22,0.25,0.00,0.09,0.56
+209,Sonic Forces,2017,Platform,Sega,0.15,0.31,0.01,0.09,0.56
+210,Kingdom Come: Deliverance,2018,Role-Playing,Deep Silver,0.18,0.28,0.00,0.09,0.56
+211,Lords of the Fallen,2014,Role-Playing,Square Enix,0.20,0.24,0.02,0.09,0.55
+212,Sniper Elite 4,2017,Shooter,Rebellion Developments,0.21,0.25,0.00,0.09,0.55
+213,Rory McIlroy PGA Tour,2015,Sports,Electronic Arts,0.19,0.27,0.00,0.09,0.55
+214,Project CARS 2,2017,Racing,Namco Bandai Games,0.10,0.35,0.02,0.08,0.55
+215,Skylanders: Trap Team,2014,Platform,Activision,0.25,0.18,0.00,0.09,0.52
+216,NHL 17,2016,Sports,EA Sports,0.32,0.11,0.00,0.09,0.52
+217,One Piece: Pirate Warriors 3,2015,Action,Namco Bandai Games,0.11,0.22,0.11,0.06,0.52
+218,DiRT Rally,2016,Racing,Codemasters,0.13,0.30,0.00,0.08,0.51
+219,Homefront: The Revolution,2016,Shooter,Deep Silver,0.11,0.29,0.04,0.07,0.50
+220,Attack on Titan (KOEI),2016,Action,Tecmo Koei,0.08,0.24,0.12,0.06,0.50
+221,DiRT 4,2017,Racing,Codemasters,0.10,0.30,0.02,0.07,0.49
+222,Farpoint,2017,Shooter,Sony Interactive Entertainment,0.00,0.38,0.04,0.06,0.48
+223,Battleborn,2016,Shooter,2K Games,0.25,0.12,0.03,0.08,0.48
+224,A Way Out,2018,Action,Electronic Arts,0.23,0.16,0.00,0.08,0.48
+225,Friday the 13th: The Game,2017,Action,Gun Media,0.29,0.09,0.03,0.08,0.48
+226,The Walking Dead: A Telltale Games Series,2014,Adventure,Telltale Games,0.12,0.26,0.03,0.07,0.48
+227,Wolfenstein: The Old Blood,2015,Shooter,Bethesda Softworks,0.13,0.25,0.02,0.07,0.48
+228,Deadpool,2015,Action,Activision,0.26,0.13,0.00,0.08,0.47
+229,Dragon Quest Heroes II: Twin Kings and the Prophecy's End,2016,Action,Square Enix,0.05,0.09,0.30,0.03,0.47
+230,TrackMania Turbo,2016,Racing,Ubisoft,0.04,0.35,0.00,0.07,0.47
+231,Knack 2,2017,Platform,Sony Interactive Entertainment,0.14,0.25,0.01,0.07,0.47
+232,Just Dance 2014,2013,Music,Ubisoft,0.21,0.18,0.00,0.08,0.47
+233,Dissidia Final Fantasy NT,2018,Fighting,Square Enix,0.19,0.06,0.16,0.05,0.46
+234,Skylanders: SuperChargers,2015,Action-Adventure,Activision,0.29,0.09,0.00,0.08,0.45
+235,Yakuza Kiwami,2016,Adventure,Sega,0.13,0.07,0.21,0.04,0.45
+236,Tales of Zestiria,2015,Role-Playing,Namco Bandai Games,0.18,0.16,0.04,0.07,0.45
+237,Star Ocean 5: Integrity and Faithlessness,2016,Role-Playing,Square Enix,0.10,0.13,0.16,0.05,0.45
+238,Sleeping Dogs,2014,Action,Square Enix,0.16,0.21,0.00,0.07,0.44
+239,Skylanders SWAP Force,2013,Misc,Activision,0.23,0.14,0.00,0.08,0.44
+240,Skylanders Imaginators,2016,Platform,Activision,0.18,0.18,0.00,0.07,0.43
+241,Trials Fusion,2014,Misc,Ubisoft,0.13,0.23,0.01,0.07,0.43
+242,Saints Row IV,2015,Action,Deep Silver,0.15,0.18,0.03,0.06,0.42
+243,Dishonored,2015,Action,Bethesda Softworks,0.12,0.21,0.02,0.06,0.42
+244,Mirror's Edge 2,2016,Platform,Electronic Arts,0.13,0.19,0.03,0.06,0.42
+245,Farming Simulator 2015,2015,Simulation,Koch Media,0.13,0.22,0.00,0.07,0.41
+246,Just Dance 2015,2014,Music,Ubisoft,0.21,0.13,0.00,0.07,0.41
+247,Sword Art Online: Hollow Realization,2016,Role-Playing,Namco Bandai Games,0.18,0.06,0.12,0.05,0.41
+248,Just Dance 2016,2015,Music,Ubisoft,0.19,0.13,0.00,0.07,0.39
+249,Batman: Arkham VR,2016,Action,Warner Bros. Interactive Entertainment,0.32,0.00,0.00,0.07,0.39
+250,Little Nightmares,2017,Platform,Namco Bandai Games,0.18,0.12,0.02,0.06,0.39
+251,Tropico 5,2015,Simulation,Kalypso Media,0.07,0.18,0.08,0.05,0.38
+252,Life is Strange,2016,Adventure,Square Enix,0.11,0.16,0.05,0.05,0.37
+253,Resident Evil Zero,2016,Action-Adventure,Capcom,0.07,0.18,0.07,0.05,0.37
+254,Yakuza Kiwami 2,2017,Action,Sega,0.08,0.06,0.19,0.03,0.37
+255,Vampyr,2018,Role-Playing,Focus Home Interactive,0.12,0.19,0.00,0.06,0.37
+256,Okami,2017,Action,Capcom,0.16,0.12,0.03,0.06,0.36
+257,Sniper: Ghost Warrior 3,2017,Shooter,City Interactive,0.14,0.15,0.03,0.06,0.36
+258,Hokuto ga Gotoku,2018,Action,Sega,0.09,0.05,0.18,0.03,0.36
+259,Sword Art Online: Lost Song,2015,Role-Playing,Namco Bandai Games,0.19,0.11,0.00,0.06,0.36
+260,Disgaea 5: Alliance of Vengeance,2015,Role-Playing,NIS America,0.15,0.08,0.07,0.05,0.35
+261,Dead or Alive 5,2015,Fighting,Tecmo Koei,0.09,0.13,0.09,0.04,0.35
+262,Gravity Rush 2,2017,Action-Adventure,Sony Interactive Entertainment,0.13,0.05,0.13,0.04,0.35
+263,Odin Sphere: Leifthrasir,2016,Role-Playing,NIS America,0.14,0.07,0.09,0.04,0.34
+264,Divinity: Original Sin,2015,Role-Playing,Focus Home Interactive,0.13,0.13,0.04,0.05,0.34
+265,The King of Fighters XIV,2016,Fighting,Deep Silver,0.21,0.02,0.06,0.05,0.34
+266,Dishonored: Death of the Outsider,2017,Action,Bethesda Softworks,0.10,0.18,0.00,0.05,0.33
+267,Valkyria Chronicles,2016,Role-Playing,Sega,0.14,0.08,0.08,0.04,0.33
+268,Murdered: Soul Suspect,2014,Action-Adventure,Square Enix,0.09,0.17,0.02,0.05,0.33
+269,Payday 2,2015,Shooter,505 Games,0.12,0.14,0.00,0.05,0.32
+270,UEFA Euro 2016,2016,Sports,Konami Digital Entertainment,0.00,0.22,0.05,0.04,0.31
+271,DmC: Devil May Cry,2015,Action,Capcom,0.12,0.13,0.00,0.05,0.31
+272,Sonic Mania,2017,Platform,Sega,0.10,0.15,0.01,0.05,0.31
+273,J Stars Victory Vs.,2015,Fighting,Namco Bandai Games,0.11,0.14,0.00,0.05,0.31
+274,XCOM 2,2016,Strategy,2K Games,0.16,0.10,0.00,0.05,0.31
+275,Dynasty Warriors 8: Xtreme Legends,2014,Misc,Tecmo Koei,0.09,0.12,0.06,0.04,0.31
+276,Cities: Skylines,2017,Simulation,Koch Media,0.15,0.07,0.04,0.05,0.30
+277,Saint Seiya: Soldiers' Soul,2015,Fighting,Namco Bandai Games,0.00,0.21,0.05,0.04,0.30
+278,Just Dance 2018,2017,Music,Ubisoft,0.10,0.15,0.00,0.05,0.30
+279,The Walking Dead: Season Two,2014,Misc,Square Enix,0.13,0.09,0.03,0.05,0.30
+280,Sword Art Online: Fatal Bullet,2018,Role-Playing,Namco Bandai Games,0.11,0.03,0.13,0.03,0.29
+281,Naruto to Boruto: Shinobi Striker,2018,Action,Bandai Namco Games,0.19,0.03,0.02,0.05,0.29
+282,Yooka-Laylee,2017,Platform,Sold Out,0.09,0.16,0.00,0.05,0.29
+283,Cars 3: Driven to Win,2017,Racing,Warner Bros. Interactive Entertainment,0.06,0.18,0.01,0.04,0.29
+284,Metal Gear Solid V: The Definitive Experience,2016,Action,Konami Digital Entertainment,0.13,0.08,0.03,0.04,0.29
+285,Sherlock Holmes: Crimes & Punishments,2014,Adventure,Focus Home Interactive,0.10,0.14,0.00,0.05,0.29
+286,Star Trek Bridge Crew VR,2017,Action,Ubisoft,0.11,0.12,0.00,0.05,0.28
+287,The Heavy Rain and Beyond: Two Souls Collection,2016,Action,Sony Computer Entertainment,0.00,0.24,0.00,0.04,0.28
+288,Spintires: MudRunner,2017,Simulation,Focus Home Interactive,0.11,0.12,0.00,0.05,0.28
+289,Onechanbara Z2: Chaos,2014,Action,NIS America,0.16,0.03,0.05,0.04,0.28
+290,Secret of Mana,2018,Role-Playing,Square Enix,0.06,0.12,0.05,0.04,0.28
+291,Gundam Versus,2017,Action,Namco Bandai Games,0.08,0.00,0.18,0.02,0.28
+292,NBA Live 14,2013,Sports,EA Sports,0.17,0.05,0.00,0.05,0.27
+293,Bravo Team VR,2018,Shooter,Sony Interactive Entertainment,0.12,0.09,0.02,0.04,0.27
+294,Killing Floor 2�,2016,Shooter,Tripwire Interactive,0.19,0.03,0.00,0.05,0.27
+295,Robinson: The Journey,2016,Action-Adventure,Sony Interactive Entertainment,0.14,0.09,0.00,0.05,0.27
+296,DriveClub VR,2016,Racing,Sony Interactive Entertainment,0.12,0.09,0.01,0.04,0.27
+297,Fate/Extella: The Umbral Star,2016,Action,PQube,0.12,0.00,0.12,0.03,0.27
+298,Ultimate Marvel vs. Capcom 3,2017,Fighting,Capcom,0.19,0.00,0.02,0.04,0.26
+299,New Danganronpa V3: Minna no Koroshiai Shin Gakki,2017,Adventure,NIS America,0.09,0.05,0.07,0.03,0.25
+300,Samurai Warriors 4,2014,Fighting,Tecmo Koei,0.08,0.07,0.06,0.03,0.25
+301,Darksiders III,2018,Action,THQ Nordic,0.13,0.07,0.00,0.04,0.25
+302,NBA Live 15,2014,Sports,Electronic Arts,0.16,0.04,0.00,0.04,0.25
+303,NBA Live 18,2017,Sports,EA Sports,0.20,0.00,0.00,0.05,0.24
+304,Tearaway Unfolded,2015,Platform,Sony Computer Entertainment,0.07,0.13,0.00,0.04,0.24
+305,.hack//G.U. Last Recode,2017,Role-Playing,Namco Bandai Games,0.10,0.04,0.08,0.03,0.24
+306,Ride,2015,Racing,Milestone S.r.l.,0.04,0.13,0.03,0.03,0.24
+307,Just Dance 2017,2016,Misc,Ubisoft,0.08,0.12,0.00,0.04,0.24
+308,The Escapists 2,2017,Action,Sold Out,0.04,0.16,0.00,0.04,0.24
+309,Transformers: Devastation,2015,Action,Activision,0.11,0.09,0.00,0.04,0.24
+310,Darksiders II,2015,Action-Adventure,Nordic Games,0.10,0.10,0.00,0.04,0.24
+311,Jikkyou Powerful Pro Baseball 2016,2016,Sports,Konami Digital Entertainment,0.00,0.00,0.24,0.00,0.24
+312,The Elder Scrolls Online: Morrowind,2017,MMO,Bethesda Softworks,0.11,0.09,0.00,0.04,0.24
+313,Digimon World: Next Order,2017,Role-Playing,Namco Bandai Games,0.13,0.05,0.02,0.04,0.24
+314,theHunter: Call of the Wild,2017,Shooter,Astragon,0.19,0.00,0.00,0.04,0.24
+315,Tony Hawk's Pro Skater 5,2015,Sports,Activision,0.11,0.08,0.00,0.04,0.23
+316,Angry Birds: Star Wars,2013,Puzzle,Activision,0.11,0.09,0.00,0.04,0.23
+317,Elex,2017,Role-Playing,THQ Nordic,0.03,0.16,0.00,0.04,0.23
+318,RIGS: Mechanized Combat League,2016,Action,Sony Interactive Entertainment,0.11,0.06,0.02,0.04,0.23
+319,Transformer: Rise of the Dark Spark,2014,Shooter,Activision,0.08,0.11,0.01,0.04,0.23
+320,Dead Island Definitive Collection,2016,Action,Deep Silver,0.09,0.08,0.03,0.03,0.23
+321,Metal Gear Survive,2018,Action,Konami Digital Entertainment,0.08,0.06,0.05,0.03,0.23
+322,Singstar Celebration,2017,Music,Sony Interactive Entertainment,0.04,0.15,0.00,0.03,0.23
+323,Dead by Daylight,2017,Action,505 Games,0.11,0.06,0.02,0.04,0.22
+324,Attack on Titan 2,2018,Action,Koei Tecmo,0.09,0.04,0.06,0.03,0.22
+325,The Wolf Among Us,2014,Adventure,Telltale Games,0.11,0.07,0.00,0.04,0.22
+326,Micro Machines: World Series,2017,Racing,Codemasters,0.03,0.16,0.00,0.03,0.22
+327,Bladestorm: Nightmare,2015,Action,Tecmo Koei,0.11,0.04,0.03,0.03,0.22
+328,Zombie Army Trilogy,2015,Shooter,Rebellion Developments,0.06,0.13,0.00,0.03,0.22
+329,Outlast Trinity,2017,Action,Warner Bros. Interactive Entertainment,0.09,0.09,0.00,0.04,0.22
+330,EVE: Valkyrie,2016,Shooter,Sony Interactive Entertainment,0.11,0.06,0.00,0.04,0.21
+331,Senran Kagura: Peach Beach Splash,2017,Action,PQube,0.09,0.02,0.08,0.02,0.21
+332,Ys VIII: Lacrimosa of Dana,2017,Role-Playing,NIS America,0.08,0.04,0.08,0.02,0.21
+333,Bound By Flame,2014,Action,Focus Home Interactive,0.08,0.09,0.00,0.04,0.21
+334,NBA Live 16,2015,Sports,EA Sports,0.13,0.05,0.00,0.04,0.21
+335,7 Days to Die,2016,Action,Telltale Games,0.09,0.08,0.00,0.03,0.21
+336,Dynasty Warriors 8: Empires,2014,Misc,Tecmo Koei,0.07,0.07,0.04,0.03,0.21
+337,Dragon's Dogma,2017,Role-Playing,Capcom,0.07,0.07,0.03,0.03,0.21
+338,Godzilla (2015),2014,Action,Namco Bandai Games,0.11,0.03,0.03,0.03,0.20
+339,Eagle Flight,2016,Adventure,Ubisoft,0.09,0.08,0.00,0.03,0.20
+340,Agents of Mayhem,2017,Action,Deep Silver,0.08,0.08,0.00,0.03,0.20
+341,MotoGP 14�,2014,Racing,Milestone S.r.l.,0.05,0.11,0.00,0.03,0.20
+342,Elite: Dangerous,2017,Simulation,Frontier Developments,0.06,0.10,0.00,0.03,0.19
+343,Singstar: Ultimate Party,2014,Music,Sony Computer Entertainment,0.00,0.16,0.00,0.03,0.19
+344,Toukiden Kiwami,2015,Action,Tecmo Koei,0.06,0.07,0.03,0.03,0.19
+345,Batman: A Telltale Game Series,2016,Adventure,Telltale Games,0.09,0.07,0.00,0.03,0.19
+346,The Surge,2017,Action,Koch Media,0.07,0.08,0.01,0.03,0.19
+347,MotoGP 15,2015,Racing,Milestone S.r.l.,0.00,0.13,0.04,0.02,0.18
+348,Resident Evil: Revelations,2017,Action,Capcom,0.06,0.06,0.04,0.02,0.18
+349,Senran Kagura: Estival Versus,2015,Action,Marvelous Interactive,0.08,0.00,0.09,0.02,0.18
+350,Back to the Future: The Game,2015,Adventure,Telltale Games,0.10,0.05,0.00,0.03,0.18
+351,The Walking Dead - The Telltale Series: A New Frontier,2017,Adventure,Warner Bros. Interactive Entertainment,0.11,0.04,0.00,0.03,0.17
+352,Resident Evil 6,2016,Shooter,Capcom,0.10,0.00,0.05,0.02,0.17
+353,Final Fantasy XIV: Heavensward,2015,MMO,Square Enix,0.00,0.09,0.06,0.02,0.17
+354,Final Fantasy XIV: Stormblood,2017,MMO,Square Enix,0.05,0.06,0.04,0.02,0.17
+355,Guilty Gear Xrd: Sign,2014,Fighting,Arc System Works,0.11,0.00,0.04,0.02,0.17
+356,Prototype: Biohazard Bundle,2016,Action,Activision,0.14,0.00,0.00,0.03,0.17
+357,BlazBlue Central Fiction,2016,Fighting,PQube,0.10,0.00,0.05,0.02,0.17
+358,MXGP 3: The Official Motocross Videogame,2017,Racing,Milestone,0.06,0.08,0.00,0.03,0.17
+359,Ride 2,2016,Racing,Milestone S.r.l,0.07,0.06,0.01,0.03,0.16
+360,Dead Rising 4,2017,Action-Adventure,Capcom,0.08,0.05,0.00,0.03,0.16
+361,Putty Squad,2013,Platform,System 3,0.06,0.07,0.00,0.03,0.16
+362,Digimon Story: Cyber Sleuth - Hacker's Memory,2017,Role-Playing,Namco Bandai Games,0.05,0.05,0.04,0.02,0.16
+363,Battlezone,2016,Action,Sony Interactive Entertainment,0.09,0.04,0.00,0.03,0.16
+364,Naruto Shippuden: Ultimate Ninja Storm Legacy,2017,Fighting,Namco Bandai Games,0.07,0.04,0.03,0.02,0.16
+365,Berserk and the Band of the Hawk,2016,Action,Tecmo Koei,0.07,0.02,0.05,0.02,0.16
+366,BlazBlue: Chrono Phantasma Extend,2015,Fighting,PQube,0.08,0.04,0.02,0.02,0.16
+367,Pillars of Eternity,2017,Role-Playing,Paradox Interactive�,0.11,0.02,0.00,0.03,0.16
+368,Valkyria: Azure Revolution,2017,Role-Playing,Deep Silver,0.04,0.03,0.07,0.02,0.16
+369,Gravity Rush Remastered,2015,Action-Adventure,Sony Computer Entertainment,0.02,0.06,0.05,0.02,0.16
+370,Psycho-Pass: Mandatory Happiness,2016,Visual Novel,NIS America,0.10,0.02,0.00,0.03,0.15
+371,Brothers: A Tale of Two Sons,2015,Adventure,505 Games,0.04,0.09,0.00,0.02,0.15
+372,Warriors Orochi 3,2014,Action,Tecmo Koei,0.04,0.05,0.04,0.02,0.15
+373,Wasteland 2,2015,Role-Playing,Deep Silver,0.10,0.00,0.03,0.02,0.15
+374,Atelier Sophie: The Alchemist of the Mysterious Book,2015,Role-Playing,Tecmo Koei,0.04,0.03,0.07,0.01,0.15
+375,NASCAR Heat Evolution,2016,Racing,Dusenberry Martin Racing,0.12,0.00,0.00,0.03,0.15
+376,Yakuza: Ishin,2014,Adventure,Sega,0.00,0.00,0.15,0.00,0.15
+377,Toukiden 2,2016,Action,Tecmo Koei,0.04,0.00,0.10,0.01,0.15
+378,Song of the Deep,2016,Action,Insomniac Games,0.12,0.00,0.00,0.03,0.15
+379,Super Robot Wars V,2017,Role-Playing,Namco Bandai Games,0.00,0.00,0.15,0.00,0.15
+380,Blue Reflection: Maboroshi ni Mau - Shoujo no Ken,2017,Role-Playing,Tecmo Koei,0.07,0.00,0.06,0.02,0.14
+381,Yonmegami Online: Cyber Dimension Neptune,2017,Role-Playing,Idea Factory International,0.06,0.00,0.07,0.01,0.14
+382,Grand Kingdom,2015,Role-Playing,NIS America,0.08,0.00,0.04,0.02,0.14
+383,Arslan: The Warriors of Legend,2016,Action,Tecmo Koei,0.03,0.04,0.06,0.01,0.14
+384,Pro Cycling Manager 2016,2016,Sports,Focus Home Interactive,0.00,0.12,0.00,0.02,0.14
+385,Shovel Knight,2015,Platform,Yacht Club Games,0.08,0.04,0.00,0.02,0.14
+386,Adventure Time: Finn & Jake Investigations,2015,Action,Little Orbit,0.07,0.05,0.00,0.02,0.14
+387,Guilty Gear Xrd -Revelator-,2016,Fighting,PQube,0.06,0.00,0.07,0.01,0.14
+388,We Happy Few,2018,Action-Adventure,Gearbox Software,0.08,0.04,0.00,0.02,0.14
+389,Rocksmith 2014 Edition Remastered,2016,Music,Ubisoft,0.11,0.00,0.00,0.03,0.14
+390,The Crew: Wild Run,2015,Racing,Ubisoft,0.00,0.12,0.00,0.02,0.14
+391,MXGP 2,2016,Racing,Milestone S.r.l.,0.05,0.06,0.00,0.02,0.14
+392,MotoGP 17,2017,Racing,Koch Media,0.04,0.07,0.00,0.02,0.14
+393,Fairy Fencer F: Advent Dark Force,2015,Role-Playing,Idea Factory International,0.06,0.00,0.06,0.01,0.14
+394,Samurai Warriors 4-II,2015,Action,Tecmo Koei,0.04,0.02,0.07,0.01,0.13
+395,The Golf Club,2014,Sports,Ravenscourt,0.09,0.02,0.00,0.02,0.13
+396,Hatsune Miku: Project Diva X,2016,Music,Sega,0.08,0.00,0.04,0.02,0.13
+397,NASCAR Heat 2,2017,Racing,505 Games,0.11,0.00,0.00,0.02,0.13
+398,Bulletstorm: Full Clip Edition,2017,Shooter,Gearbox Software,0.05,0.06,0.00,0.02,0.13
+399,Valentino Rossi: The Game,2016,Racing,Namco Bandai Games,0.05,0.05,0.00,0.02,0.13
+400,Golf Club 2,2017,Sports,Maximum Games,0.05,0.06,0.00,0.02,0.13
+401,Akiba's Trip 2,2014,Action,Acquire,0.09,0.00,0.02,0.02,0.13
+402,Rugby 15,2015,Sports,Bigben Interactive,0.05,0.06,0.00,0.02,0.13
+403,Utawarerumono: Futari no Hakuoro,2016,Visual Novel,Atlus,0.05,0.00,0.07,0.01,0.13
+404,The Legend of Heroes: Trails of Cold Steel III,2017,Role-Playing,Nihon Falcom Corporation,0.00,0.00,0.13,0.00,0.13
+405,Utawarerumono: Itsuwari no Kamen,2015,Adventure,Deep Silver,0.05,0.00,0.07,0.01,0.13
+406,The Inpatient,2018,Action,Sony Interactive Entertainment,0.06,0.05,0.00,0.02,0.13
+407,Don Bradman Cricket 14,2015,Sports,Tru Blu Entertainment,0.01,0.09,0.00,0.02,0.13
+408,Sword Art Online: Hollow Fragment,2015,Role-Playing,Namco Bandai Games,0.00,0.11,0.00,0.02,0.12
+409,Teenage Mutant Ninja Turtles: Mutants in Manhattan,2016,Action,Activision,0.07,0.03,0.00,0.02,0.12
+410,Job Simulator,2017,Simulation,Sony Interactive Entertainment,0.10,0.00,0.00,0.02,0.12
+411,Portal Knights,2017,Role-Playing,505 Games,0.02,0.05,0.03,0.01,0.12
+412,Samurai Warriors 4: Empires,2015,Action,Tecmo Koei,0.03,0.01,0.07,0.01,0.12
+413,Danganronpa 1o2 Reload,2017,Adventure,NIS America,0.08,0.00,0.02,0.02,0.12
+414,God Eater 2: Rage Burst,2015,Role-Playing,Namco Bandai Games,0.00,0.01,0.11,0.00,0.12
+415,America's Greatest Game Shows: Wheel of Fortune & Jeopardy!,2017,Misc,Ubisoft,0.10,0.00,0.00,0.02,0.12
+416,Marvel's Guardians of the Galaxy: The Telltale Series,2017,Adventure,Warner Bros. Interactive Entertainment,0.06,0.04,0.00,0.02,0.12
+417,Digimon Story: Cyber Sleuth,2016,Role-Playing,Namco Bandai Games,0.00,0.10,0.00,0.02,0.11
+418,Constructor HD,2017,Strategy,System 3,0.09,0.00,0.00,0.02,0.11
+419,Minecraft: Story Mode - Season Two,2017,Adventure,Telltale Games,0.09,0.00,0.00,0.02,0.11
+420,Darksiders: Warmastered Edition,2016,Action-Adventure,THQ Nordic,0.07,0.02,0.00,0.02,0.11
+421,Mighty No. 9,2016,Platform,Deep Silver,0.09,0.00,0.00,0.02,0.11
+422,The Invisible Hours,2017,Adventure,GameTrust,0.09,0.00,0.00,0.02,0.11
+423,Monster Energy Supercross - The Official Videogame,2018,Racing,Milestone S.r.l.,0.08,0.01,0.00,0.02,0.11
+424,The Idolmaster: Platinum Stars,2016,Simulation,Namco Bandai Games,0.00,0.00,0.11,0.00,0.11
+425,The Witch and the Hundred Knight,2015,Role-Playing,NIS America,0.03,0.01,0.06,0.01,0.11
+426,SD Gundam G Generation Genesis,2016,Strategy,Namco Bandai Games,0.00,0.00,0.11,0.00,0.11
+427,Rime,2017,Adventure,Grey Box,0.02,0.07,0.00,0.02,0.11
+428,Super Robot Wars OG: The Moon Dwellers,2016,Misc,Namco Bandai Games,0.00,0.00,0.11,0.00,0.11
+429,Gundam Breaker 3,2016,Action,Namco Bandai Games,0.00,0.00,0.11,0.00,0.11
+430,Earth Defense Force 2025.1: The Shadow of New Despair,2015,Shooter,D3Publisher,0.00,0.00,0.11,0.00,0.11
+431,Shadow Warrior (2013),2014,Shooter,Devolver Digital,0.00,0.09,0.00,0.02,0.11
+432,Assassin's Creed Chronicles,2016,Action,Ubisoft,0.02,0.05,0.02,0.01,0.11
+433,Mega Man Legacy Collection,2016,Platform,Capcom,0.09,0.00,0.00,0.02,0.11
+434,Pac-Man Championship Edition 2 + Arcade Game Series,2017,Action,Namco Bandai Games,0.08,0.00,0.00,0.02,0.10
+435,Tokyo Xanadu eX+,2016,Role-Playing,Nihon Falcom Corporation,0.05,0.00,0.05,0.01,0.10
+436,Stardew Valley,2017,Simulation,505 Games,0.04,0.04,0.00,0.02,0.10
+437,Romance of the Three Kingdoms 13,2015,Action,Tecmo Koei,0.03,0.00,0.06,0.01,0.10
+438,Musou Stars,2017,Action,Tecmo Koei,0.03,0.00,0.06,0.01,0.10
+439,Mega Man Legacy Collection 2,2017,Action,Capcom,0.06,0.00,0.02,0.01,0.10
+440,Final Fantasy XIV Online Complete Edition,2017,MMO,Square Enix,0.07,0.00,0.02,0.02,0.10
+441,Devil May Cry 4,2015,Action,Capcom,0.01,0.00,0.09,0.00,0.10
+442,Puyo Puyo Tetris,2014,Puzzle,Sega,0.05,0.03,0.00,0.02,0.10
+443,Natural Doctrine,2014,Role-Playing,NIS America,0.05,0.02,0.02,0.01,0.10
+444,Sudden Strike 4,2017,Strategy,Kalypso Media,0.05,0.03,0.01,0.02,0.10
+445,Accel World vs. Sword Art Online: Millennium Twilight,2017,Action,Namco Bandai Games,0.00,0.03,0.06,0.01,0.10
+446,Wolfenstein The Two Pack,2017,Shooter,Bethesda Softworks,0.08,0.00,0.00,0.02,0.10
+447,Guilty Gear Xrd REV 2,2017,Fighting,PQube,0.04,0.01,0.03,0.01,0.10
+449,Let's Sing 2016,2015,Music,Ravenscourt,0.08,0.00,0.00,0.02,0.10
+450,Resident Evil 4 HD,2016,Action-Adventure,Capcom,0.07,0.00,0.01,0.02,0.10
+451,Nights of Azure 2,2017,Action,Tecmo Koei,0.04,0.00,0.04,0.01,0.09
+452,The Technomancer,2016,Role-Playing,Focus Home Interactive,0.04,0.04,0.00,0.02,0.09
+453,Nights of Azure,2015,Action,Tecmo Koei,0.04,0.04,0.00,0.02,0.09
+454,Taiko no Tatsujin: Drum Session!,2017,Music,Namco Bandai Games,0.00,0.00,0.09,0.00,0.09
+455,Nobunaga's Ambition: Sphere of Influence - Sengoku Risshiden,2016,Strategy,Tecmo Koei,0.03,0.00,0.06,0.01,0.09
+456,Grand Ages: Medieval,2015,Strategy,Kalypso Media,0.00,0.05,0.03,0.01,0.09
+457,Rugby League Live 4,2017,Sports,Tru Blu Entertainment,0.00,0.08,0.00,0.01,0.09
+458,Toy Soldiers: War Chest,2015,Action,Ubisoft,0.07,0.00,0.00,0.02,0.09
+459,God Eater Resurrection,2015,Action,Namco Bandai Games,0.00,0.00,0.09,0.00,0.09
+460,Paragon,2016,Action,Sony Interactive Entertainment,0.07,0.00,0.00,0.02,0.09
+461,Summon Night 6: Lost Borders,2016,Role-Playing,Gaijinworks,0.03,0.00,0.05,0.01,0.09
+462,Black Rose Valkyrie,2016,Role-Playing,Idea Factory International,0.04,0.00,0.04,0.01,0.09
+463,Duke Nukem 3D: 20th Anniversary World Tour,2016,Shooter,Gearbox Software,0.07,0.00,0.00,0.02,0.09
+464,ATV Drift & Tricks,2017,Racing,Funbox Media,0.07,0.00,0.00,0.02,0.09
+465,Yoru no Nai Kuni,2015,Role-Playing,Tecmo Koei,0.00,0.00,0.09,0.00,0.09
+466,Lara Croft and the Temple of Osiris,2014,Action,Square Enix,0.00,0.07,0.00,0.01,0.09
+468,Ghostbusters (2016),2016,Action,Activision,0.07,0.00,0.00,0.02,0.08
+469,Agatha Christie's The ABC Murders,2016,Adventure,Microids,0.05,0.02,0.00,0.02,0.08
+470,Shantae: Half-Genie Hero,2016,Platform,Xseed Games,0.06,0.00,0.01,0.01,0.08
+471,Earth Defense Force 4.1: The Shadow of New Despair,2015,Shooter,PQube,0.05,0.02,0.00,0.01,0.08
+472,The Sexy Brutale,2017,Adventure,Badland Studio,0.05,0.02,0.00,0.01,0.08
+473,Legend of Kay,2015,Action,Nordic Games,0.03,0.03,0.00,0.01,0.08
+474,Hasbro Family Fun Pack Conquest Edition,2016,Misc,Ubisoft,0.07,0.00,0.00,0.02,0.08
+475,Loading Human,2016,Adventure,Maximum Games,0.05,0.02,0.00,0.01,0.08
+476,Rapala Fishing Pro Series,2017,Simulation,GameMill,0.06,0.00,0.00,0.02,0.08
+477,Atelier Firis: The Alchemist of the Mysterious Journey,2016,Role-Playing,Tecmo Koei,0.02,0.00,0.05,0.01,0.08
+478,Dead Rising,2016,Action,Capcom,0.04,0.00,0.02,0.01,0.08
+479,Assetto Corsa,2016,Racing,505 Games,0.00,0.06,0.01,0.01,0.08
+480,Akiba's Beat,2016,Action,PQube,0.05,0.00,0.01,0.01,0.08
+481,WRC 6,2016,Racing,PQube,0.03,0.02,0.01,0.01,0.08
+482,God Wars: Future Past,2017,Role-Playing,NIS America,0.03,0.01,0.02,0.01,0.07
+483,Resident Evil 5 HD,2016,Action,Capcom,0.05,0.00,0.01,0.01,0.07
+484,The Witch and the Hundred Knights 2,2017,Role-Playing,Nippon Ichi Software,0.03,0.00,0.03,0.01,0.07
+485,Samurai Warriors: Sanada Maru,2016,Action,Tecmo Koei,0.02,0.00,0.05,0.01,0.07
+486,Project Setsuna,2016,Role-Playing,Square Enix,0.00,0.00,0.07,0.00,0.07
+487,Has-Been Heroes,2017,Action,GameTrust,0.06,0.00,0.00,0.01,0.07
+488,Fortune Street: Dragon Quest & Final Fantasy 30th Anniversary,2017,Misc,Square Enix,0.00,0.00,0.07,0.00,0.07
+489,Styx: Shards of Darknes,2017,Action,Focus Home Interactive,0.06,0.00,0.00,0.01,0.07
+490,Dead Rising 2,2016,Action,Capcom,0.04,0.00,0.02,0.01,0.07
+491,The Book of Unwritten Tales 2,2015,Adventure,Nordic Games,0.00,0.06,0.00,0.01,0.07
+492,Touhou Genso Rondo: Bullet Ballet,2016,Shooter,NIS America,0.06,0.00,0.00,0.01,0.07
+493,The Walking Dead: A Telltale Series Collection,2017,Adventure,Warner Bros. Interactive Entertainment,0.06,0.00,0.00,0.01,0.07
+494,The Silver Case,2017,Visual Novel,NIS America,0.05,0.00,0.01,0.01,0.07
+495,Hunting Simulator,2017,Shooter,Bigben Interactive,0.06,0.00,0.00,0.01,0.07
+496,WRC 7,2017,Racing,Bigben Interactive,0.06,0.00,0.00,0.01,0.07
+497,Kamen Rider: Battride War Genesis,2016,Action,Namco Bandai Games,0.00,0.00,0.07,0.00,0.07
+498,Le Tour de France 2017,2017,Simulation,Focus Home Interactive,0.00,0.06,0.00,0.01,0.07
+499,City Shrouded in Shadow,2017,Action-Adventure,Namco Bandai Games,0.00,0.00,0.07,0.00,0.07
+500,SG/ZH: School Girl/Zombie Hunter,2017,Action,Aksys Games,0.04,0.00,0.02,0.01,0.07
+501,Broken Sword 5: The Serpent's Curse,2015,Adventure,Revolution Software,0.00,0.06,0.00,0.01,0.07
+502,Terraria,2014,Action,505 Games,0.00,0.05,0.01,0.01,0.07
+503,Warhammer: The End Times - Vermintide,2016,Action,Games Workshop,0.03,0.03,0.00,0.01,0.07
+504,Batman: The Enemy Within,2017,Adventure,Telltale Games,0.05,0.00,0.00,0.01,0.07
+505,Atari Flashback Classics: Volume 1,2016,Misc,Atari,0.05,0.00,0.00,0.01,0.07
+506,Legend of Kay Anniversary,2015,Action,Nordic Games,0.00,0.06,0.00,0.01,0.07
+507,Steins;Gate 0,2015,Adventure,PQube,0.00,0.00,0.07,0.00,0.07
+508,ZombiU,2016,Action,Ubisoft,0.00,0.04,0.01,0.01,0.07
+509,Risen 3: Titan Lords,2015,Role-Playing,Deep Silver,0.00,0.06,0.00,0.01,0.07
+510,Mark McMorris Infinite Air,2016,Sports,Maximum Games,0.05,0.00,0.00,0.01,0.06
+511,Dead or Alive Xtreme 3: Fortune,2016,Sports,Tecmo Koei,0.00,0.00,0.06,0.00,0.06
+512,Birthdays the Beginning,2017,Misc,NIS America,0.05,0.00,0.00,0.01,0.06
+513,Rugby 18,2017,Sports,Koch Media,0.05,0.00,0.00,0.01,0.06
+514,The Binding of Isaac,2017,Misc,Nicalis,0.05,0.00,0.00,0.01,0.06
+515,Sherlock Holmes: The Devil's Daughter,2016,Adventure,Bigben Interactive,0.05,0.00,0.00,0.01,0.06
+516,Atelier Liddy and Soeur: Alchemists of the Mysterious Painting,2017,Role-Playing,Tecmo Koei,0.03,0.00,0.03,0.01,0.06
+517,MX vs. ATV Supercross Encore,2015,Sports,Nordic Games,0.00,0.05,0.00,0.01,0.06
+518,MX vs ATV Supercross Encore 2017 Track Edition,2017,Racing,THQ Nordic,0.05,0.00,0.00,0.01,0.06
+519,Sword Art Online: Game Director's Edition,2015,Role-Playing,Namco Bandai Games,0.00,0.00,0.06,0.00,0.06
+520,Deformers,2017,Action,Ready at Dawn,0.05,0.00,0.00,0.01,0.06
+521,Nobunaga no Yabou: Souzou,2014,Strategy,Tecmo Koei,0.00,0.00,0.06,0.00,0.06
+522,Dragon Quest X: All in One Package,2017,Role-Playing,Square Enix,0.00,0.00,0.06,0.00,0.06
+523,Yomawari: Midnight Shadows,2017,Action,NIS America,0.02,0.00,0.04,0.00,0.06
+524,Game of Thrones (Telltale),2015,Adventure,Telltale Games,0.05,0.00,0.00,0.01,0.06
+525,Atari Flashback Classics: Volume 2,2016,Misc,Atari,0.05,0.00,0.00,0.01,0.06
+526,Outcast: Second Contact,2017,Adventure,Maximum Games,0.05,0.00,0.00,0.01,0.06
+527,Cartoon Network Battle Crashers,2016,Action,Maximum Games,0.05,0.00,0.00,0.01,0.06
+528,Handball 16,2015,Sports,Bigben Interactive,0.00,0.05,0.00,0.01,0.06
+529,Extinction,2018,Action,Maximum Games,0.05,0.00,0.00,0.01,0.06
+530,Rugby World Cup 2015,2015,Sports,Big Ben Interactive,0.00,0.05,0.00,0.01,0.06
+531,Exist Archive: The Other Side of the Sky,2015,Role-Playing,Aksys Games,0.02,0.00,0.03,0.00,0.06
+532,King's Quest: The Complete Collection,2016,Adventure,Activision,0.05,0.00,0.00,0.01,0.06
+533,Sine Mora,2017,Action,THQ Nordic,0.03,0.01,0.00,0.01,0.06
+534,Aven Colony,2017,Strategy,Sold Out,0.04,0.01,0.00,0.01,0.06
+535,Battle Chasers: Nightwar,2017,Role-Playing,THQ Nordic,0.03,0.02,0.00,0.01,0.06
+536,WRC 5: FIA World Rally Championship,2015,Racing,Bigben Interactive,0.00,0.05,0.00,0.01,0.06
+537,Black Mirror,2017,Adventure,THQ Nordic,0.04,0.00,0.00,0.01,0.05
+538,Touhou Genso Wanderer,2017,Action,NIS America,0.04,0.00,0.00,0.01,0.05
+539,Arcania: Gothic 4,2015,Role-Playing,Nordic Games,0.04,0.00,0.00,0.01,0.05
+540,Starblood Arena VR,2017,Shooter,Sony Interactive Entertainment,0.04,0.00,0.00,0.01,0.05
+541,Hellblade,2018,Action-Adventure,505 Games,0.03,0.01,0.00,0.01,0.05
+542,Bubsy: The Woolies Strike Back,2017,Platform,Accolade,0.04,0.00,0.00,0.01,0.05
+543,Nitroplus Blasterz: Heroines Infinite Duel,2015,Fighting,Marvelous Interactive,0.01,0.01,0.03,0.00,0.05
+544,Nobunaga's Ambition: Creation,2014,Strategy,Tecmo Koei,0.04,0.00,0.00,0.01,0.05
+545,Child of Light,2014,Role-Playing,Ubisoft,0.00,0.01,0.04,0.00,0.05
+546,Phantasy Star Online 2 Episode 4: Deluxe Package,2017,Role-Playing,Sega,0.00,0.00,0.05,0.00,0.05
+547,Saints Row: Gat out of Hell,2015,Action,Deep Silver,0.00,0.04,0.00,0.01,0.05
+548,Werewolves Within,2016,Misc,Ubisoft,0.04,0.00,0.00,0.01,0.05
+549,Demon Gaze 2,2017,Role-Playing,NIS America,0.04,0.00,0.00,0.01,0.05
+550,Real Farm,2017,Simulation,Soedesco,0.04,0.00,0.00,0.01,0.05
+551,Worms: WMD,2016,Strategy,Team17 Digital Ltd,0.02,0.02,0.00,0.01,0.05
+552,Syberia III,2017,Adventure,Microids,0.04,0.00,0.00,0.01,0.05
+553,Sengoku Basara: Sanada Yukimura-Den,2016,Action,Capcom,0.00,0.00,0.05,0.00,0.05
+554,Sengoku Basara 4: Sumeragi,2015,Action,Capcom,0.00,0.00,0.05,0.00,0.05
+555,S�bastien Loeb Rally Evo,2016,Racing,Milestone S.r.l,0.00,0.04,0.00,0.01,0.05
+556,Don't Starve,2018,Adventure,505 Games,0.04,0.00,0.00,0.01,0.05
+557,Monster Jam: Crush It,2016,Racing,GameMill,0.04,0.00,0.00,0.01,0.05
+558,Prison Architect,2016,Simulation,Introversion Software,0.02,0.02,0.00,0.01,0.05
+559,Assault Suit Leynos,2016,Shooter,Rising Star Games,0.04,0.00,0.00,0.01,0.05
+560,Tokyo Twilight Ghost Hunters Daybreak: Special Gigs,2016,Adventure,NIS America,0.04,0.00,0.00,0.01,0.05
+561,Overcooked,2016,Action,Sold Out,0.04,0.00,0.00,0.01,0.05
+562,Ben 10 (2017),2017,Action,Outright Games,0.04,0.00,0.00,0.01,0.05
+563,Dead Alliance,2017,Shooter,Maximum Games,0.04,0.00,0.00,0.01,0.04
+564,Deer Hunter Reloaded,2017,Shooter,Maximum Games,0.04,0.00,0.00,0.01,0.04
+565,That's You,2017,Party,Sony Interactive Entertainment,0.04,0.00,0.00,0.01,0.04
+566,Raid: World War II,2017,Shooter,505 Games,0.04,0.00,0.00,0.01,0.04
+567,Hyperdimension Neptunia Victory II,2015,Role-Playing,Idea Factory International,0.00,0.00,0.04,0.00,0.04
+568,Zero Escape The Nonary Games,2017,Adventure,Aksys Games,0.03,0.00,0.01,0.01,0.04
+569,Rugby Challenge 3,2016,Sports,Alternative Software,0.00,0.04,0.00,0.01,0.04
+570,Vikings: Wolves of Midgard,2017,Action,Kalypso Media,0.03,0.01,0.00,0.01,0.04
+571,INSIDE / LIMBO Double Pack,2017,Platform,505 Games,0.04,0.00,0.00,0.01,0.04
+572,The Talos Principle,2015,Puzzle,Nighthawk Interactive,0.00,0.04,0.00,0.01,0.04
+573,Megadimension Neptunia VIIR,2017,Role-Playing,Compile Heart,0.01,0.00,0.03,0.00,0.04
+574,R.B.I. Baseball 2016,2016,Sports,MLB.com,0.04,0.00,0.00,0.01,0.04
+575,Pure Farming 2018,2018,Simulation,Techland,0.02,0.01,0.00,0.01,0.04
+576,Air Conflicts: Secret Wars,2016,Simulation,Nighthawk Interactive,0.03,0.00,0.00,0.01,0.04
+577,Anima - Gate of Memories,2016,Action,Avanquest,0.01,0.02,0.00,0.01,0.04
+578,Axiom Verge,2017,Action,Badland Studio,0.03,0.00,0.00,0.01,0.04
+579,Unbox: Newbie's Adventure,2017,Action,Merge Games,0.03,0.00,0.00,0.01,0.04
+580,Here They Lie,2016,Adventure,Sony Interactive Entertainment,0.00,0.03,0.00,0.01,0.04
+581,Under Night In-Birth Exe:Latest,2017,Fighting,Arc System Works,0.01,0.00,0.03,0.00,0.04
+582,Aragami,2016,Action,Maximum Games,0.03,0.00,0.00,0.01,0.04
+583,Yonder: The Cloud Catcher Chronicles,2017,Action,CokeM Interactive,0.03,0.00,0.00,0.01,0.04
+584,Assassin's Creed Chronicles: China,2015,Action-Adventure,Ubisoft,0.00,0.03,0.00,0.01,0.04
+585,JoJo's Bizarre Adventure: Eyes of Heaven,2015,Fighting,Namco Bandai Games,0.00,0.00,0.04,0.00,0.04
+586,Dungeons 3,2017,Strategy,Kalypso Media,0.03,0.00,0.00,0.01,0.04
+587,Tour de France 2014,2014,Sports,Focus Home Interactive,0.00,0.03,0.00,0.01,0.04
+588,Danganronpa Another Episode: Ultra Despair Girls,2017,Shooter,NIS America,0.03,0.00,0.01,0.01,0.04
+589,Aegis of Earth: Protonovus Assault,2016,Action,PQube,0.03,0.01,0.00,0.01,0.04
+590,Just Sing,2016,Music,Ubisoft,0.03,0.00,0.00,0.01,0.04
+591,Wonder Boy: The Dragon's Trap (Remake),2018,Platform,Nicalis,0.03,0.00,0.00,0.01,0.04
+592,Lumo,2016,Puzzle,Rising Star Games,0.03,0.00,0.00,0.01,0.04
+593,ABZU,2017,Adventure,505 Games,0.03,0.00,0.00,0.01,0.04
+594,Shadow Tactics: Blades of the Shogun,2017,Strategy,Kalypso Media,0.02,0.01,0.00,0.01,0.04
+595,Darkest Dungeon,2018,Role-Playing,Merge Games,0.02,0.00,0.01,0.01,0.04
+596,R.B.I. Baseball 2017,2017,Sports,MLB.com,0.03,0.00,0.00,0.01,0.04
+597,Punch Line,2015,Adventure,5pb,0.03,0.00,0.00,0.01,0.04
+598,VR Karts,2017,Racing,Perp Games,0.03,0.00,0.00,0.01,0.04
+599,Resident Evil: Umbrella Corps,2016,Shooter,Capcom,0.00,0.00,0.04,0.00,0.04
+600,Marvel Pinball: Epic Collection Volume 1,2016,Puzzle,Nighthawk Interactive,0.03,0.00,0.00,0.01,0.04
+601,God Eater Off Shot: Lindow-hen Twin Pack & Animation Vol. 2,2015,Misc,Namco Bandai Games,0.00,0.00,0.04,0.00,0.04
+602,Infamous: First Light,2014,Action,Sony Computer Entertainment,0.00,0.03,0.00,0.00,0.03
+603,Raiden V,2017,Action,UFO Interactive,0.02,0.00,0.00,0.01,0.03
+604,The Peanuts Movie: Snoopy's Grand Adventure,2015,Platform,Activision,0.00,0.03,0.00,0.00,0.03
+605,The Dwarves,2016,Role-Playing,THQ Nordic,0.03,0.00,0.00,0.01,0.03
+606,Dynasty Warriors: Eiketsuden,2016,Strategy,Tecmo Koei,0.00,0.00,0.03,0.00,0.03
+607,Winning Post 8 2016,2016,Simulation,Tecmo Koei,0.00,0.00,0.03,0.00,0.03
+608,Dragon's Dogma Online: Season 2,2016,Action,Capcom,0.00,0.00,0.03,0.00,0.03
+609,Coven and Labyrinth of Refrain,2017,Action,Nippon Ichi Software,0.01,0.00,0.01,0.00,0.03
+610,Super Dungeon Bros,2016,Action,Wired Productions,0.02,0.00,0.00,0.01,0.03
+611,Blade Arcus from Shining EX,2015,Fighting,Sega,0.00,0.00,0.03,0.00,0.03
+612,Troll and I,2017,Action,Maximum Games,0.02,0.00,0.00,0.01,0.03
+613,The Pillars of the Earth,2017,Adventure,Kalypso Media,0.02,0.00,0.00,0.01,0.03
+614,The Lost Child,2017,Action,Kadokawa Games,0.01,0.00,0.01,0.00,0.03
+615,Romance of the Three Kingdoms 13 with Power-Up Kit,2017,Misc,Tecmo Koei,0.00,0.00,0.03,0.00,0.03
+616,Koihime Enbu,2016,Fighting,Yeti,0.00,0.00,0.03,0.00,0.03
+617,Road Rage,2017,Racing,Maximum Games,0.02,0.00,0.00,0.01,0.03
+618,Winning Post 8 2017,2017,Misc,Tecmo Koei,0.00,0.00,0.03,0.00,0.03
+619,Dino Dini's Kick Off Revival,2016,Sports,Avanquest,0.00,0.02,0.00,0.00,0.03
+620,God Eater Off Shot:Shiou-hen Twin Pack & Animation Vol.5,2016,Misc,Namco Bandai Games,0.00,0.00,0.03,0.00,0.03
+621,Tumblestone,2016,Puzzle,Nighthawk Interactive,0.02,0.00,0.00,0.01,0.03
+622,Blackguards 2,2017,Strategy,Kalypso Media,0.02,0.00,0.00,0.01,0.03
+623,Baja: Edge of Control HD,2017,Racing,THQ Nordic,0.02,0.00,0.00,0.01,0.03
+624,Crows: Burning Edge,2016,Action,Namco Bandai Games,0.00,0.00,0.03,0.00,0.03
+625,Geometry Wars 3: Dimensions Evolved,2016,Action,Activision,0.02,0.00,0.00,0.01,0.03
+626,We Sing (2016),2016,Music,THQ Nordic,0.02,0.00,0.00,0.01,0.03
+627,Shin Hayarigami 2,2016,Adventure,Nippon Ichi Software,0.00,0.00,0.03,0.00,0.03
+628,The Town of Light,2017,Adventure,Wired Productions,0.02,0.00,0.00,0.01,0.03
+629,OlliOlli: Epic Combo Edition,2016,Platform,Badland Studio,0.02,0.00,0.00,0.01,0.03
+630,Naruto Shippuden Ultimate Ninja Storm 4: Road to Boruto,2017,Fighting,Namco Bandai Games,0.00,0.00,0.03,0.00,0.03
+632,Ao no Kanata no Four Rhythm,2017,Visual Novel,Sprite,0.00,0.00,0.03,0.00,0.03
+633,Zero Escape: Zero Time Dilemma,2017,Adventure,Aksys Games,0.02,0.00,0.00,0.00,0.03
+634,AereA,2017,Role-Playing,Soedesco,0.02,0.00,0.00,0.00,0.03
+635,Root Letter,2016,Visual Novel,PQube,0.00,0.00,0.03,0.00,0.03
+636,ClaDun Sengoku,2017,Action,NIS America,0.02,0.00,0.00,0.00,0.03
+637,The Girl and the Robot,2017,Misc,Soedesco,0.02,0.00,0.00,0.00,0.03
+638,Omega Quintet,2014,Role-Playing,Compile Heart,0.00,0.00,0.02,0.00,0.03
+639,Touhou Kobuto V: Burst Battle,2017,Shooter,NIS America,0.02,0.00,0.00,0.00,0.03
+640,God Eater Off Shot: Soma Shikkuzaru-hen Twin Pack & Animation Vol.4,2016,Action,Namco Bandai Games,0.00,0.00,0.02,0.00,0.02
+641,Rugby League Live 3,2015,Sports,Tru Blu Entertainment,0.00,0.02,0.00,0.00,0.02
+642,Omega Labyrinth Z,2017,Role-Playing,D3Publisher,0.00,0.00,0.02,0.00,0.02
+643,Lost Sphear,2017,Role-Playing,Square Enix,0.00,0.00,0.02,0.00,0.02
+644,Superbeat: Xonic,2017,Music,PM Studios,0.02,0.00,0.00,0.00,0.02
+645,Republique,2016,Action-Adventure,Gunho Online Entertainment,0.00,0.01,0.01,0.00,0.02
+646,Super Stardust Ultra VR,2016,Shooter,Sony Interactive Entertainment,0.00,0.02,0.00,0.00,0.02
+647,Redout,2017,Racing,505 Games,0.02,0.00,0.00,0.00,0.02
+648,Resident Evil: Value Pack,2016,Action-Adventure,Capcom,0.00,0.00,0.02,0.00,0.02
+649,God Eater Off Shot: Tachibana Sakuya-hen Twin Pack & Animation Vol.7,2016,Action,Namco Bandai Games,0.00,0.00,0.02,0.00,0.02
+650,PaRappa the Rapper Remastered,2017,Music,Sony Interactive Entertainment,0.00,0.00,0.02,0.00,0.02
+651,Earth's Dawn,2016,Action,Rising Star Games,0.02,0.00,0.00,0.00,0.02
+652,Big Buck Hunter Arcade,2016,Shooter,GameMill Entertainment,0.02,0.00,0.00,0.00,0.02
+653,Dungeons 2,2016,Role-Playing,Kalypso Media,0.02,0.00,0.00,0.00,0.02
+654,Tricky Towers,2017,Puzzle,Soedesco,0.02,0.00,0.00,0.00,0.02
+655,No Heroes Allowed! VR,2017,Strategy,Sony Interactive Entertainment,0.00,0.00,0.02,0.00,0.02
+656,ArmaGallant: Decks of Destiny,2017,Strategy,Maximum Games,0.02,0.00,0.00,0.00,0.02
+657,Carmageddon: Max Damage,2016,Action,Stainless Games,0.02,0.00,0.00,0.00,0.02
+658,Armello,2018,Strategy,League of Geeks,0.02,0.00,0.00,0.00,0.02
+659,Shaq-Fu: A Legend Reborn,2018,Action,Wired Productions,0.02,0.00,0.00,0.00,0.02
+660,Patapon Remastered,2017,Music,Sony Interactive Entertainment,0.00,0.00,0.02,0.00,0.02
+661,Monster Hunter Frontier Z: Beginner's Package,2016,Action,Capcom,0.00,0.00,0.02,0.00,0.02
+662,Professional Farmer 2016,2015,Action,Namco Bandai Games,0.00,0.02,0.00,0.00,0.02
+663,Natsuiro High School: Seishun Hakusho,2015,Action,D3Publisher,0.00,0.00,0.02,0.00,0.02
+664,The Inner World: The Last Wind Monk,2017,Puzzle,Kalypso Media,0.02,0.00,0.00,0.00,0.02
+665,SteamWorld Collection,2016,Misc,Rising Star Games,0.02,0.00,0.00,0.00,0.02
+666,Konoyo no Hate de Koi o Utau Shoujo: Yu-No,2017,Visual Novel,5pb,0.00,0.00,0.02,0.00,0.02
+667,God Eater Off Shot: Fujiki Kota-hen Twin Pack & Animation Vol.6,2016,Misc,Namco Bandai Games,0.00,0.00,0.02,0.00,0.02
+668,Genkai Tokki: Castle Panzers,2017,Role-Playing,Compile Heart,0.00,0.00,0.02,0.00,0.02
+669,Skullgirls: 2nd Encore,2016,Fighting,Arc System Works,0.00,0.00,0.02,0.00,0.02
+670,This Is The Police,2017,Simulation,THQ Nordic,0.01,0.00,0.00,0.00,0.02
+671,Rabbids Invasion: The Interactive TV Show,2014,Misc,Ubisoft,0.00,0.01,0.00,0.00,0.02
+672,FlatOut 4: Total Insanity,2017,Racing,Bigben Interactive,0.01,0.00,0.00,0.00,0.02
+673,Chaos;Child,2015,Visual Novel,PQube,0.00,0.00,0.02,0.00,0.02
+674,Touhou Shinhiroku: Urban Legend in Limbo,2016,Fighting,Mediascape,0.00,0.00,0.02,0.00,0.02
+675,Rogue Trooper: Redux,2017,Shooter,Rebellion,0.01,0.00,0.00,0.00,0.02
+676,Space Hulk: Deathwing,2015,Shooter,Focus Home Interactive,0.00,0.01,0.00,0.00,0.02
+677,Pharaonic,2017,Action,Soedesco,0.01,0.00,0.00,0.00,0.02
+678,White Day,2017,Action,PQube,0.00,0.01,0.01,0.00,0.02
+679,Torment: Tides of Numenera,2017,Role-Playing,Techland,0.01,0.00,0.00,0.00,0.01
+680,Let It Die,2017,Action,GungHo,0.00,0.01,0.01,0.00,0.01
+681,Summer Lesson: Miyamoto Hikari Collection,2017,Adventure,Namco Bandai Games,0.00,0.00,0.01,0.00,0.01
+682,Raven's Cry,2015,Role-Playing,TopWare Interactive,0.00,0.01,0.00,0.00,0.01
+683,New Game! The Challenge Stage!,2017,Adventure,5pb,0.00,0.00,0.01,0.00,0.01
+684,Hakoniwa Company Works,2017,Strategy,Nippon Ichi Software,0.00,0.00,0.01,0.00,0.01
+685,DJ Max Respect,2017,Misc,Arc System Works,0.00,0.00,0.01,0.00,0.01
+686,Battle Worlds: Kronos,2016,Strategy,Nordic Games,0.01,0.00,0.00,0.00,0.01
+687,Dragon's Dogma Online: Season 3,2017,Role-Playing,Capcom,0.00,0.00,0.01,0.00,0.01
+688,Occultic;Nine,2017,Adventure,5pb,0.00,0.00,0.01,0.00,0.01
+689,Kono Subarashii Sekai ni Shukufuku o! Kono Yokubukai Game ni Shinpan o!,2017,Adventure,5pb,0.00,0.00,0.01,0.00,0.01
+690,Battle Garegga Rev.2016,2016,Strategy,M2,0.00,0.00,0.01,0.00,0.01
+691,Yahari Game Demo Ore no Seishun Love-Kome wa Machigatteiru. & Zoku: Oatome Set,2017,Adventure,5pb,0.00,0.00,0.01,0.00,0.01
+692,Farming 2017 - The Simulation,2016,Simulation,UIG Entertainment,0.00,0.01,0.00,0.00,0.01
+693,Re:Zero - Kara Hajimeru Isekai Seikatsu - Death or Kiss,2017,Adventure,5pb,0.00,0.00,0.01,0.00,0.01
+694,Zombie Vikings,2016,Action,Rising Star Games,0.00,0.01,0.00,0.00,0.01
+695,ATV Renegades,2017,Racing,Nighthawk Interactive,0.01,0.00,0.00,0.00,0.01
+696,Ziggurat,2016,Shooter,Soedesco,0.00,0.01,0.00,0.00,0.01
+697,Chaos;Child: Love Chu Chu!!,2017,Visual Novel,5pb,0.00,0.00,0.01,0.00,0.01
+698,Moto Racer 4,2016,Racing,PQube,0.01,0.00,0.00,0.00,0.01
+699,LocoRoco Remastered,2017,Platform,Sony Interactive Entertainment,0.00,0.00,0.01,0.00,0.01
+700,Lock's Quest,2017,Strategy,THQ Nordic,0.01,0.00,0.00,0.00,0.01
+701,Gal Gun: Double Peace,2015,Action,PQube,0.00,0.00,0.01,0.00,0.01
+702,Woodcutter Simulator 2016,2015,Action,Namco Bandai Games,0.00,0.01,0.00,0.00,0.01
+703,Akiba's Trip 2+A,2017,Adventure,Acquire,0.00,0.00,0.01,0.00,0.01
+704,Date-A-Live Twin Edition: Rio Reincarnation,2017,Adventure,Compile Heart,0.00,0.00,0.01,0.00,0.01
+705,Valhalla Hills,2017,Strategy,Kalypso Media,0.01,0.00,0.00,0.00,0.01
+706,Deception IV: Blood Ties,2015,Action,Tecmo Koei,0.00,0.00,0.01,0.00,0.01
+707,One Piece: Unlimited World Red,2017,Action,Namco Bandai Games,0.00,0.00,0.01,0.00,0.01
+708,Hyper Light Drifter,2017,Role-Playing,Active Gaming Media,0.00,0.00,0.01,0.00,0.01
+709,Teslagrad,2014,Platform,Rain Games,0.00,0.01,0.00,0.00,0.01
+710,Darius Burst: Chronicle Saviours,2017,Action,Kadokawa Games,0.00,0.00,0.01,0.00,0.01
+711,The Escapists: The Walking Dead,2016,Action,Team17 Software,0.00,0.00,0.00,0.00,0.01
+712,Super Meat Boy,2016,Platform,Team Meat,0.00,0.00,0.00,0.00,0.01
+713,Blood Bowl 2,2015,Sports,Focus Home Interactive,0.00,0.00,0.00,0.00,0.00
+714,The Witness,2016,Misc,"Thekla, Inc.",0.00,0.00,0.00,0.00,0.00
+715,Quantic Dream Collection,2015,Action,Sony Computer Entertainment,0.00,0.00,0.00,0.00,0.00
+716,Iwaihime: Matsuri,2017,Adventure,Nippon Ichi Software,0.00,0.00,0.00,0.00,0.00
+717,RepKiss,2017,Adventure,Entergram,0.00,0.00,0.00,0.00,0.00
+718,War Thunder,2017,Action,DMM Games,0.00,0.00,0.00,0.00,0.00
+719,Tsuihou Senkyo,2017,Adventure,Nippon Ichi Software,0.00,0.00,0.00,0.00,0.00
+720,Hustle Kings VR,2016,Sports,Sony Interactive Entertainment,0.00,0.00,0.00,0.00,0.00
+721,Toki Tori 2+,2016,Puzzle,Two Tribes,0.00,0.00,0.00,0.00,0.00
+722,Deception IV: The Nightmare Princess,2015,Action,Tecmo Koei,0.00,0.00,0.00,0.00,0.00
+723,Kingdom Hearts HD I.5 + II.5 ReMIX,2017,Action,Square Enix,0.00,0.00,0.00,0.00,0.00
+724,Fushigi no Chronicle: Furikaerimasen Katsu Madewa,2015,Action,Spike Chunsoft,0.00,0.00,0.00,0.00,0.00
+726,Agatha Christie: The ABC Murders,2016,Adventure,Microids,0.00,0.00,0.00,0.00,0.00
+727,Ancients of Ooga - The Forgotten Chapters,2016,Platform,Koch Media,0.00,0.00,0.00,0.00,0.00
+731,Blacklight: Retribution,2013,Misc,Perfect World Entertainment,0.00,0.00,0.00,0.00,0.00
+732,Bladestorm: The Hundred Years' War,2015,Action,BioWare,0.00,0.00,0.00,0.00,0.00
+733,Brothers in Arms: Furious 4,2019,Shooter,Ubisoft,0.00,0.00,0.00,0.00,0.00
+737,DC Universe Online,2013,MMO,Sony Online Entertainment,0.00,0.00,0.00,0.00,0.00
+741,Industry Giant II,2017,Strategy,UIG Entertainment,0.00,0.00,0.00,0.00,0.00
+743,Kingdom Under Fire II,2014,Misc,Unknown,0.00,0.00,0.00,0.00,0.00
+747,Mount & Blade: Warband,2016,Role-Playing,Taleworlds,0.00,0.00,0.00,0.00,0.00
+751,Psychonauts,2017,Action,Sony Interactive Entertainment,0.00,0.00,0.00,0.00,0.00
+752,Resident Evil 5,2016,Action,Capcom,0.00,0.00,0.00,0.00,0.00
+756,The Amazing Spider-Man 2,2014,Misc,Activision,0.00,0.00,0.00,0.00,0.00
+759,Ether One,2015,Adventure,Soedesco,0.00,0.00,0.00,0.00,0.00
+760,Uncharted 2: Among Thieves,2016,Action,Sony Interactive Entertainment,0.00,0.00,0.00,0.00,0.00
+761,Uncharted 3: Drake's Deception,2016,Action,Sony Interactive Entertainment,0.00,0.00,0.00,0.00,0.00
+763,Uncharted: Drake's Fortune,2016,Action,Sony Interactive Entertainment,0.00,0.00,0.00,0.00,0.00
+765,Awesomenauts,2014,Misc,DTP Entertainment,0.00,0.00,0.00,0.00,0.00
+775,Broken Age,2015,Adventure,Nordic Games,0.00,0.00,0.00,0.00,0.00
+778,Slender: The Arrival,2015,Adventure,Unknown,0.00,0.00,0.00,0.00,0.00
+779,deep down (Working Title),2020,Misc,Capcom,0.00,0.00,0.00,0.00,0.00
+782,Human Element,2015,Misc,Unknown,0.00,0.00,0.00,0.00,0.00
+783,Whore of the Orient,2020,Misc,Warner Bros. Interactive Entertainment,0.00,0.00,0.00,0.00,0.00
+784,Cyberpunk 2077,2018,Action-Adventure,CD Projekt Red Studio,0.00,0.00,0.00,0.00,0.00
+785,Final Fantasy (PS4),2020,Misc,Square Enix,0.00,0.00,0.00,0.00,0.00
+789,Contrast,2013,Misc,Compulsion Games,0.00,0.00,0.00,0.00,0.00
+791,Carmageddon: Reincarnation,2015,Misc,Stainless Games,0.00,0.00,0.00,0.00,0.00
+792,Rocketbirds 2: Evolution,2020,Misc,Unknown,0.00,0.00,0.00,0.00,0.00
+793,Primal Carnage: Genesis,2020,Misc,Unknown,0.00,0.00,0.00,0.00,0.00
+804,Kingdom Hearts III,2019,Role-Playing,Square Enix,0.00,0.00,0.00,0.00,0.00
+810,Yaiba: Ninja Gaiden Z,2014,Misc,Tecmo Koei,0.00,0.00,0.00,0.00,0.00
+817,Pinball Arcade,2013,Misc,FarSight Studios,0.00,0.00,0.00,0.00,0.00
+818,Toukiden: The Age of Demons,2014,Action,Tecmo Koei,0.00,0.00,0.00,0.00,0.00
+819,Reus,2016,Strategy,Soedesco,0.00,0.00,0.00,0.00,0.00
+820,Strider (2014),2014,Platform,Capcom,0.00,0.00,0.00,0.00,0.00
+822,EverQuest Next,2019,MMO,Sony Online Entertainment,0.00,0.00,0.00,0.00,0.00
+835,Velocity 2X,2014,Action,Futurlab 1,0.00,0.00,0.00,0.00,0.00
+836,Helldivers,2015,Action,Sony Computer Entertainment,0.00,0.00,0.00,0.00,0.00
+842,WonderFlick,2014,Misc,Level 5,0.00,0.00,0.00,0.00,0.00
+843,Monochroma,2014,Misc,Nowhere Studios,0.00,0.00,0.00,0.00,0.00
+848,Lily Bergamo,2014,Misc,GungHo,0.00,0.00,0.00,0.00,0.00
+858,Get Even,2015,Misc,Unknown,0.00,0.00,0.00,0.00,0.00
+866,TowerFall,2014,Misc,Unknown,0.00,0.00,0.00,0.00,0.00
+872,SOMA (2015),2015,Misc,Frictional Games,0.00,0.00,0.00,0.00,0.00
+873,Cult County,2015,Misc,Renegade Kid,0.00,0.00,0.00,0.00,0.00
+875,R.B.I. Baseball 14,2014,Misc,MLB.com,0.00,0.00,0.00,0.00,0.00
+878,Blue Estate�,2014,Misc,Focus Home Interactive,0.00,0.00,0.00,0.00,0.00
+892,Pure Pool�,2014,Misc,Triniti Interactive,0.00,0.00,0.00,0.00,0.00
+893,Without Memory,2016,Misc,Unknown,0.00,0.00,0.00,0.00,0.00
+897,Bombshell,2014,Misc,3D Realms,0.00,0.00,0.00,0.00,0.00
+899,The Forest,2015,Action,Endnight Games Ltd�,0.00,0.00,0.00,0.00,0.00
+905,Falling Skies: The Game�,2015,Role-Playing,Little Orbit,0.00,0.00,0.00,0.00,0.00
+909,EA Sports PGA Tour,2015,Sports,EA Sports,0.00,0.00,0.00,0.00,0.00
+910,Dead Island 2,2017,Action,Deep Silver,0.00,0.00,0.00,0.00,0.00
+917,Tetris Ultimate�,2014,Puzzle,Ubisoft,0.00,0.00,0.00,0.00,0.00
+918,Afro Samurai 2,2015,Action,Versus Evil,0.00,0.00,0.00,0.00,0.00
+919,The Legend of Korra (2014),2014,Action,Activision,0.00,0.00,0.00,0.00,0.00
+920,The Vanishing of Ethan Carter�,2015,Adventure,The Astronauts,0.00,0.00,0.00,0.00,0.00
+921,Godzilla (2014),2014,Action,Namco Bandai Games,0.00,0.00,0.00,0.00,0.00
+922,Gran Turismo 7,2020,Racing,Sony Computer Entertainment,0.00,0.00,0.00,0.00,0.00
+934,Wild,2019,Adventure,Sony Interactive Entertainment,0.00,0.00,0.00,0.00,0.00
+944,Tadeo Jones y el manuscrito perdido,2014,Adventure,Deep Silver,0.00,0.00,0.00,0.00,0.00
+946,OlliOlli 2: Welcome to Olliwood,2016,Sports,PQube,0.00,0.00,0.00,0.00,0.00
+947,Pathologic,2015,Adventure,Ice-pick Lodge,0.00,0.00,0.00,0.00,0.00
+949,Rebel Galaxy,2015,Role-Playing,Double Damage Games,0.00,0.00,0.00,0.00,0.00
+953,Assassin's Creed: Victory,2015,Action,Ubisoft,0.00,0.00,0.00,0.00,0.00
+954,Silent Hills,2020,Action,Konami Digital Entertainment,0.00,0.00,0.00,0.00,0.00
+974,Overlord: Fellowship of Evil,2015,Action,Codemasters,0.00,0.00,0.00,0.00,0.00
+975,R.B.I. Baseball 15,2015,Sports,MLB.com,0.00,0.00,0.00,0.00,0.00
+977,Wander,2015,Role-Playing,Wander MMO,0.00,0.00,0.00,0.00,0.00
+982,Final Fantasy VII Remake,2019,Role-Playing,Square Enix,0.00,0.00,0.00,0.00,0.00
+983,Ikenie to Yuki no Setsuna,2016,Role-Playing,Square Enix,0.00,0.00,0.00,0.00,0.00
+984,Atelier Sophie,2020,Role-Playing,Gust,0.00,0.00,0.00,0.00,0.00
+985,Dengeki Bunko: Fighting Climax Ignition,2015,Action,Sega,0.00,0.00,0.00,0.00,0.00
+986,World Soccer Winning Eleven 2015,2015,Action,Konami Digital Entertainment,0.00,0.00,0.00,0.00,0.00
+988,Cross Reverie,2017,Role-Playing,Sinxsoft,0.00,0.00,0.00,0.00,0.00
+989,Airship Q,2019,Platform,Cygames,0.00,0.00,0.00,0.00,0.00
+990,Killing Bites,2016,Action,Unknown,0.00,0.00,0.00,0.00,0.00
+992,Tiny Troopers Joint Ops,2014,Action,Unknown,0.00,0.00,0.00,0.00,0.00
+993,The London Heist,2016,Shooter,Sony Computer Entertainment,0.00,0.00,0.00,0.00,0.00
+994,Risen 3 Enhanced Edition,2015,Role-Playing,Deep Silver,0.00,0.00,0.00,0.00,0.00
+995,Air Conflicts: Pacific Carriers,2015,Simulation,Kalypso Media,0.00,0.00,0.00,0.00,0.00
+996,God Wars: Beyond Time,2016,Role-Playing,Kadokawa Games,0.00,0.00,0.00,0.00,0.00
+997,Hasbro Family Fun Pack,2015,Misc,Ubisoft,0.00,0.00,0.00,0.00,0.00
+998,Professional Lumberjack 2016,2015,Simulation,Namco Bandai Games,0.00,0.00,0.00,0.00,0.00
+999,Alekhine's Gun,2016,Action,Maximum Games,0.00,0.00,0.00,0.00,0.00
+1000,Kung Fu Panda: Showdown of Legendary Legends,2015,Action,Little Orbit,0.00,0.00,0.00,0.00,0.00
+1005,Bloodborne: Complete Edition,2015,Role-Playing,Sony Computer Entertainment,0.00,0.00,0.00,0.00,0.00
+1009,World to the West,2017,Action-Adventure,Soedesco,0.00,0.00,0.00,0.00,0.00
+1014,Days Gone,2019,Action-Adventure,Sony Interactive Entertainment,0.00,0.00,0.00,0.00,0.00
+1015,Berserk Musou,2016,Action,Tecmo Koei,0.00,0.00,0.00,0.00,0.00
+1016,Ginger: Beyond the Crystal,2016,Platform,PQube,0.00,0.00,0.00,0.00,0.00
+1017,The Last of Us: Part II,2019,Action,Sony Interactive Entertainment,0.00,0.00,0.00,0.00,0.00
+1018,Don Bradman Cricket 17,2016,Sports,Tru Blu Entertainment,0.00,0.00,0.00,0.00,0.00
+1019,Ace Combat 7: Skies Unknown,2019,Shooter,Bandai Namco Games,0.00,0.00,0.00,0.00,0.00
+1021,Metro Exodus,2019,Shooter,Deep Silver,0.00,0.00,0.00,0.00,0.00
+1022,Anthem,2019,Role-Playing,Electronic Arts,0.00,0.00,0.00,0.00,0.00
+1023,Moons Of Madness,2017,Role-Playing,Unknown,0.00,0.00,0.00,0.00,0.00
+1024,Iron Harvest,2018,Strategy,Unknown,0.00,0.00,0.00,0.00,0.00
+1025,Biomutant,2018,Action,THQ Nordic,0.00,0.00,0.00,0.00,0.00
+1026,Biomutant,2019,Action,THQ Nordic,0.00,0.00,0.00,0.00,0.00
+1027,de Blob,2017,Platform,THQ Nordic,0.00,0.00,0.00,0.00,0.00
+1028,Chaos on Deponia,2017,Adventure,Daedalic Entertainment,0.00,0.00,0.00,0.00,0.00
+1029,Code Vein,2018,Action,Bandai Namco Entertainment,0.00,0.00,0.00,0.00,0.00
+1031,Radial G Racing Revolved,2017,Racing,Tammeka Games,0.00,0.00,0.00,0.00,0.00
